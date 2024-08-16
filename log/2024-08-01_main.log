@@ -1,0 +1,28 @@
+2024-08-01T13:01:57.411Z Error in init function initDbConnection(): MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2024-08-01T13:01:57.423Z ERROR TRACE:
+MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+    at Topology.selectServer (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/sdam/topology.js:303:38)
+    at async Topology._connect (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/sdam/topology.js:196:28)
+    at async Topology.connect (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/sdam/topology.js:158:13)
+    at async topologyConnect (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/mongo_client.js:204:17)
+    at async MongoClient._connect (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/mongo_client.js:217:13)
+    at async MongoClient.connect (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/mongo_client.js:142:13)
+    at async initDbConnection (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/database/initDb.js:28:9)
+    at async main (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js:9:9)
+    at async /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js:27:5
+# TRACE END
+
+2024-08-01T13:06:55.787Z Error in init function initDbConnection(): MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2024-08-01T13:06:55.799Z ERROR TRACE:
+MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+    at Topology.selectServer (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/sdam/topology.js:303:38)
+    at async Topology._connect (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/sdam/topology.js:196:28)
+    at async Topology.connect (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/sdam/topology.js:158:13)
+    at async topologyConnect (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/mongo_client.js:204:17)
+    at async MongoClient._connect (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/mongo_client.js:217:13)
+    at async MongoClient.connect (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/node_modules/mongodb/lib/mongo_client.js:142:13)
+    at async initDbConnection (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/database/initDb.js:28:9)
+    at async main (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js:9:9)
+    at async /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js:27:5
+# TRACE END
+

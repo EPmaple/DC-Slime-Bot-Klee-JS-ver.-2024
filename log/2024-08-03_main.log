@@ -1,0 +1,57 @@
+2024-08-03T12:41:56.069Z Successfully connected to MongoDb server
+2024-08-03T12:41:56.071Z Successfully connected to database: test2
+2024-08-03T12:41:57.623Z Successfully initialized discord bot.
+2024-08-03T12:41:57.624Z Starting synchronization of the database with const/memberList.js.
+2024-08-03T12:41:57.639Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-03T12:41:57.639Z Successfully verified synchronization.
+2024-08-03T12:41:57.642Z Successfully cached total slime count.
+2024-08-03T12:41:57.646Z Individual slime counts cached successfully.
+2024-08-03T12:41:57.647Z Cached data initialized successfully.
+2024-08-03T12:41:58.122Z Bot is online!
+2024-08-03T12:48:24.415Z [chat] 17maple: .u
+2024-08-03T12:48:24.418Z Error in command function addSlime(): TypeError: idName is not a function
+2024-08-03T12:48:24.419Z ERROR TRACE:
+TypeError: idName is not a function
+    at getName (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/helpers/members.js:8:12)
+    at Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:83:66)
+    at Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:27)
+    at Client.emit (node:events:520:28)
+    at MessageCreateAction.handle (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/actions/MessageCreate.js:28:14)
+    at module.exports [as MESSAGE_CREATE] (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:239:12)
+    at WebSocketManager.emit (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:285:31)
+    at WebSocketShard.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@discordjs/ws/dist/index.js:1190:51)
+# TRACE END
+
+2024-08-03T12:48:24.925Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-03T12:49:27.690Z Closing connection to MongoDB
+2024-08-03T12:49:29.754Z Successfully connected to MongoDb server
+2024-08-03T12:49:29.756Z Successfully connected to database: test2
+2024-08-03T12:49:31.490Z Successfully initialized discord bot.
+2024-08-03T12:49:31.491Z Starting synchronization of the database with const/memberList.js.
+2024-08-03T12:49:31.505Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-03T12:49:31.505Z Successfully verified synchronization.
+2024-08-03T12:49:31.507Z Successfully cached total slime count.
+2024-08-03T12:49:31.510Z Successfully cached individual slime counts.
+2024-08-03T12:49:31.510Z Successfully cached necessary data.
+2024-08-03T12:49:31.980Z Bot is online!
+2024-08-03T12:49:37.117Z [chat] 17maple: .u
+2024-08-03T12:49:37.443Z Error in command function addSlime(): MongoServerError: Transaction numbers are only allowed on a replica set member or mongos
+2024-08-03T12:49:37.445Z ERROR TRACE:
+MongoServerError: Transaction numbers are only allowed on a replica set member or mongos
+    at Connection.sendCommand (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/mongodb/lib/cmap/connection.js:290:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Connection.command (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/mongodb/lib/cmap/connection.js:313:26)
+    at async Server.command (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/mongodb/lib/sdam/server.js:167:29)
+    at async UpdateOneOperation.executeCommand (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/mongodb/lib/operations/command.js:73:16)
+    at async UpdateOneOperation.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/mongodb/lib/operations/update.js:54:21)
+    at async UpdateOneOperation.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/mongodb/lib/operations/update.js:68:21)
+    at async executeOperation (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/mongodb/lib/operations/execute_operation.js:136:16)
+    at async Collection.updateOne (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/mongodb/lib/collection.js:204:16)
+    at async updatePersonSlimesPositively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:42:30)
+# TRACE END
+
+2024-08-03T12:49:37.571Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-03T12:49:37.802Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-03T13:10:43.371Z Closing connection to MongoDB

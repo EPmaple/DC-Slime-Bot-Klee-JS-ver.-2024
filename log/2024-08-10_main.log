@@ -1,0 +1,220 @@
+2024-08-10T01:54:22.612Z Successfully connected to MongoDb server
+2024-08-10T01:54:22.620Z Successfully connected to database: test3
+2024-08-10T01:54:24.128Z Successfully initialized discord bot.
+2024-08-10T01:54:24.129Z Starting synchronization of the database with const/memberList.js.
+2024-08-10T01:54:24.179Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-10T01:54:24.179Z Successfully verified synchronization.
+2024-08-10T01:54:24.224Z Successfully cached total slime count.
+2024-08-10T01:54:24.264Z Successfully cached individual slime counts.
+2024-08-10T01:54:24.265Z Successfully cached necessary data.
+2024-08-10T01:54:24.266Z All initializations completed successfully. Bot is now ready!
+2024-08-10T01:54:24.595Z Bot is online!
+2024-08-10T01:57:05.183Z Closing connection to MongoDB
+2024-08-10T01:57:06.886Z Successfully connected to MongoDb server
+2024-08-10T01:57:06.889Z Successfully connected to database: test3
+2024-08-10T01:57:08.355Z Successfully initialized discord bot.
+2024-08-10T01:57:08.355Z Starting synchronization of the database with const/memberList.js.
+2024-08-10T01:57:08.399Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-10T01:57:08.400Z Successfully verified synchronization.
+2024-08-10T01:57:08.433Z Successfully cached total slime count.
+2024-08-10T01:57:08.470Z Successfully cached individual slime counts.
+2024-08-10T01:57:08.470Z Successfully cached necessary data.
+2024-08-10T01:57:08.470Z All initializations completed successfully. Bot is now ready!
+2024-08-10T01:57:08.837Z Bot is online!
+2024-08-10T01:59:56.147Z [chat] 17maple: .sself
+2024-08-10T01:59:56.196Z Error in command function slimeCount(): Error: No document found with the specified discordUserId undefined.
+2024-08-10T01:59:56.197Z ERROR TRACE:
+Error: No document found with the specified discordUserId undefined.
+    at getSlimesCountByUserId (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/read.js:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/slimeCount.js:34:28)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-10T01:59:56.811Z [chat] Klee: An error occurred during the slimeCount kommand, please try again later.
+2024-08-10T02:00:42.381Z [chat] 17maple: .zself
+2024-08-10T02:00:42.383Z Error in command function zoomInfo(): TypeError: Cannot read properties of undefined (reading 'join')
+2024-08-10T02:00:42.383Z ERROR TRACE:
+TypeError: Cannot read properties of undefined (reading 'join')
+    at Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/zoomInfo.js:38:52)
+    at Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:27)
+    at Client.emit (node:events:520:28)
+    at MessageCreateAction.handle (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/actions/MessageCreate.js:28:14)
+    at module.exports [as MESSAGE_CREATE] (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:239:12)
+    at WebSocketManager.emit (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:285:31)
+    at WebSocketShard.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@discordjs/ws/dist/index.js:1190:51)
+    at WebSocketShard.emit (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:285:31)
+# TRACE END
+
+2024-08-10T02:00:42.849Z [chat] Klee: An error occurred during the zoomInfo kommand, please try again later.
+2024-08-10T02:25:25.838Z Closing connection to MongoDB
+2024-08-10T02:25:27.136Z Successfully connected to MongoDb server
+2024-08-10T02:25:27.142Z Successfully connected to database: test3
+2024-08-10T02:25:28.760Z Successfully initialized discord bot.
+2024-08-10T02:25:28.761Z Starting synchronization of the database with const/memberList.js.
+2024-08-10T02:25:28.816Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-10T02:25:28.816Z Successfully verified synchronization.
+2024-08-10T02:25:28.858Z Successfully cached total slime count.
+2024-08-10T02:25:28.896Z Successfully cached individual slime counts.
+2024-08-10T02:25:28.897Z Successfully cached necessary data.
+2024-08-10T02:25:28.897Z All initializations completed successfully. Bot is now ready!
+2024-08-10T02:25:29.237Z Bot is online!
+2024-08-10T02:25:39.322Z [chat] 17maple: .zself
+2024-08-10T02:25:39.325Z Error in command function zoomInfo(): TypeError: Cannot read properties of undefined (reading 'join')
+2024-08-10T02:25:39.326Z ERROR TRACE:
+TypeError: Cannot read properties of undefined (reading 'join')
+    at Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/zoomInfo.js:38:52)
+    at Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:27)
+    at Client.emit (node:events:520:28)
+    at MessageCreateAction.handle (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/actions/MessageCreate.js:28:14)
+    at module.exports [as MESSAGE_CREATE] (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:239:12)
+    at WebSocketManager.emit (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:285:31)
+    at WebSocketShard.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@discordjs/ws/dist/index.js:1190:51)
+    at WebSocketShard.emit (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:285:31)
+# TRACE END
+
+2024-08-10T02:25:39.375Z {"name":"17maple","zoomCount":4,"zoomTimes":["2024-08-08T17:07:09.967Z","2024-08-09T12:16:07.578Z","2024-08-09T12:28:55.704Z","2024-08-09T12:28:55.704Z"]}
+2024-08-10T02:25:39.812Z [chat] Klee: An error occurred during the zoomInfo kommand, please try again later.
+2024-08-10T02:29:52.668Z Closing connection to MongoDB
+2024-08-10T02:29:53.920Z Successfully connected to MongoDb server
+2024-08-10T02:29:53.924Z Successfully connected to database: test3
+2024-08-10T02:29:55.368Z Successfully initialized discord bot.
+2024-08-10T02:29:55.369Z Starting synchronization of the database with const/memberList.js.
+2024-08-10T02:29:55.412Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-10T02:29:55.413Z Successfully verified synchronization.
+2024-08-10T02:29:55.447Z Successfully cached total slime count.
+2024-08-10T02:29:55.482Z Successfully cached individual slime counts.
+2024-08-10T02:29:55.482Z Successfully cached necessary data.
+2024-08-10T02:29:55.483Z All initializations completed successfully. Bot is now ready!
+2024-08-10T02:29:55.814Z Bot is online!
+2024-08-10T02:30:00.186Z [chat] 17maple: .zself
+2024-08-10T02:30:00.187Z {}
+2024-08-10T02:30:00.187Z undefined
+2024-08-10T02:30:00.187Z undefined
+2024-08-10T02:30:00.188Z Error in command function zoomInfo(): TypeError: Cannot read properties of undefined (reading 'join')
+2024-08-10T02:30:00.188Z ERROR TRACE:
+TypeError: Cannot read properties of undefined (reading 'join')
+    at Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/zoomInfo.js:41:52)
+    at Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:27)
+    at Client.emit (node:events:520:28)
+    at MessageCreateAction.handle (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/actions/MessageCreate.js:28:14)
+    at module.exports [as MESSAGE_CREATE] (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:239:12)
+    at WebSocketManager.emit (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:285:31)
+    at WebSocketShard.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@discordjs/ws/dist/index.js:1190:51)
+    at WebSocketShard.emit (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:285:31)
+# TRACE END
+
+2024-08-10T02:30:00.641Z [chat] Klee: An error occurred during the zoomInfo kommand, please try again later.
+2024-08-10T02:32:55.252Z Closing connection to MongoDB
+2024-08-10T02:32:56.479Z Successfully connected to MongoDb server
+2024-08-10T02:32:56.485Z Successfully connected to database: test3
+2024-08-10T02:32:58.204Z Successfully initialized discord bot.
+2024-08-10T02:32:58.205Z Starting synchronization of the database with const/memberList.js.
+2024-08-10T02:32:58.255Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-10T02:32:58.255Z Successfully verified synchronization.
+2024-08-10T02:32:58.294Z Successfully cached total slime count.
+2024-08-10T02:32:58.333Z Successfully cached individual slime counts.
+2024-08-10T02:32:58.333Z Successfully cached necessary data.
+2024-08-10T02:32:58.334Z All initializations completed successfully. Bot is now ready!
+2024-08-10T02:32:58.687Z Bot is online!
+2024-08-10T02:33:02.950Z [chat] 17maple: .zself
+2024-08-10T02:33:03.460Z [chat] Klee: 17maple has 4 zooms at times: 2024-08-08T17:07:09.967Z, 2024-08-09T12:16:07.578Z, 2024-08-09T12:28:55.704Z, 2024-08-09T12:28:55.704Z
+2024-08-10T02:33:46.268Z [chat] 17maple: .sself
+2024-08-10T02:33:46.766Z [chat] Klee: User 17maple has summoned 2 slimes.
+2024-08-10T02:33:57.084Z [chat] 17maple: .zself gunt
+2024-08-10T02:33:57.568Z [chat] Klee: Gunther has not yet zoomed this season.
+2024-08-10T02:34:03.777Z [chat] 17maple: .sself gunt
+2024-08-10T02:34:03.819Z Error in command function slimeCount(): Error: No document found with the specified discordUserId undefined.
+2024-08-10T02:34:03.820Z ERROR TRACE:
+Error: No document found with the specified discordUserId undefined.
+    at getSlimesCountByUserId (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/read.js:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/slimeCount.js:34:28)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-10T02:34:04.212Z [chat] Klee: An error occurred during the slimeCount kommand, please try again later.
+2024-08-10T02:36:23.310Z [chat] 17maple: .sself me
+2024-08-10T02:36:23.351Z Error in command function slimeCount(): Error: No document found with the specified discordUserId undefined.
+2024-08-10T02:36:23.351Z ERROR TRACE:
+Error: No document found with the specified discordUserId undefined.
+    at getSlimesCountByUserId (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/read.js:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/slimeCount.js:34:28)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-10T02:36:23.782Z [chat] Klee: An error occurred during the slimeCount kommand, please try again later.
+2024-08-10T02:38:17.565Z [chat] 17maple: .zself me
+2024-08-10T02:38:18.097Z [chat] Klee: 17maple has 4 zooms at times: 2024-08-08T17:07:09.967Z, 2024-08-09T12:16:07.578Z, 2024-08-09T12:28:55.704Z, 2024-08-09T12:28:55.704Z
+2024-08-10T02:38:21.951Z [chat] 17maple: .zself gunt
+2024-08-10T02:38:22.355Z [chat] Klee: Gunther has not yet zoomed this season.
+2024-08-10T02:39:32.099Z Closing connection to MongoDB
+2024-08-10T02:39:33.405Z Successfully connected to MongoDb server
+2024-08-10T02:39:33.409Z Successfully connected to database: test3
+2024-08-10T02:39:34.819Z Successfully initialized discord bot.
+2024-08-10T02:39:34.820Z Starting synchronization of the database with const/memberList.js.
+2024-08-10T02:39:34.868Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-10T02:39:34.868Z Successfully verified synchronization.
+2024-08-10T02:39:34.905Z Successfully cached total slime count.
+2024-08-10T02:39:34.943Z Successfully cached individual slime counts.
+2024-08-10T02:39:34.943Z Successfully cached necessary data.
+2024-08-10T02:39:34.944Z All initializations completed successfully. Bot is now ready!
+2024-08-10T02:39:35.307Z Bot is online!
+2024-08-10T02:39:43.210Z [chat] 17maple: .sself me
+2024-08-10T02:39:43.682Z [chat] Klee: User 17maple has summoned 2 slimes.
+2024-08-10T02:39:48.160Z [chat] 17maple: .sself gunt
+2024-08-10T02:39:48.549Z [chat] Klee: User Gunther has summoned 19 slimes.
+2024-08-10T02:40:35.363Z Closing connection to MongoDB
+2024-08-10T02:40:36.508Z Successfully connected to MongoDb server
+2024-08-10T02:40:36.513Z Successfully connected to database: test3
+2024-08-10T02:40:37.823Z Successfully initialized discord bot.
+2024-08-10T02:40:37.825Z Starting synchronization of the database with const/memberList.js.
+2024-08-10T02:40:37.873Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-10T02:40:37.874Z Successfully verified synchronization.
+2024-08-10T02:40:37.914Z Successfully cached total slime count.
+2024-08-10T02:40:37.949Z Successfully cached individual slime counts.
+2024-08-10T02:40:37.949Z Successfully cached necessary data.
+2024-08-10T02:40:37.950Z All initializations completed successfully. Bot is now ready!
+2024-08-10T02:40:38.315Z Bot is online!
+2024-08-10T02:40:53.298Z Closing connection to MongoDB
+2024-08-10T02:40:54.423Z Successfully connected to MongoDb server
+2024-08-10T02:40:54.426Z Successfully connected to database: test3
+2024-08-10T02:40:55.794Z Successfully initialized discord bot.
+2024-08-10T02:40:55.795Z Starting synchronization of the database with const/memberList.js.
+2024-08-10T02:40:55.841Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-10T02:40:55.842Z Successfully verified synchronization.
+2024-08-10T02:40:55.879Z Successfully cached total slime count.
+2024-08-10T02:40:55.913Z Successfully cached individual slime counts.
+2024-08-10T02:40:55.914Z Successfully cached necessary data.
+2024-08-10T02:40:55.915Z All initializations completed successfully. Bot is now ready!
+2024-08-10T02:40:56.272Z Bot is online!
+2024-08-10T02:40:57.871Z [chat] 17maple: .rank
+2024-08-10T02:40:58.289Z [chat] Klee: The current first (with 19 slimes): 
+                Gunther. The current second (with 2 slimes): 
+                17maple. The current third (with 1 slimes): 
+                Bulbasaur, Link2D3atH, leafa. They are the best! ⁽⁽٩(๑˃̶͈̀ ᗨ ˂̶͈́)۶⁾⁾
+2024-08-10T02:42:19.826Z Closing connection to MongoDB
+2024-08-10T02:42:24.059Z Successfully connected to MongoDb server
+2024-08-10T02:42:24.064Z Successfully connected to database: test3
+2024-08-10T02:42:25.536Z Successfully initialized discord bot.
+2024-08-10T02:42:25.537Z Starting synchronization of the database with const/memberList.js.
+2024-08-10T02:42:25.586Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-10T02:42:25.586Z Successfully verified synchronization.
+2024-08-10T02:42:25.622Z Successfully cached total slime count.
+2024-08-10T02:42:25.657Z Successfully cached individual slime counts.
+2024-08-10T02:42:25.658Z Successfully cached necessary data.
+2024-08-10T02:42:25.658Z All initializations completed successfully. Bot is now ready!
+2024-08-10T02:42:26.022Z Bot is online!
+2024-08-10T02:43:14.155Z [chat] 17maple: .rank
+2024-08-10T02:43:14.641Z [chat] Klee: The current first (with 19 slimes): Gunther.
+The current second (with 2 slimes): 17maple.
+The current third (with 1 slimes): Bulbasaur, Link2D3atH, leafa.
+They are the best! ⁽⁽٩(๑˃̶͈̀ ᗨ ˂̶͈́)۶⁾⁾
+2024-08-10T13:55:59.700Z Closing connection to MongoDB

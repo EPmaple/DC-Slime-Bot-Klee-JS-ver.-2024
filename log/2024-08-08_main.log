@@ -1,0 +1,269 @@
+2024-08-08T12:16:50.306Z Successfully connected to MongoDb server
+2024-08-08T12:16:50.314Z Successfully connected to database: test3
+2024-08-08T12:16:51.917Z Successfully initialized discord bot.
+2024-08-08T12:16:51.918Z Starting synchronization of the database with const/memberList.js.
+2024-08-08T12:16:51.971Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-08T12:16:51.971Z Successfully verified synchronization.
+2024-08-08T12:16:52.008Z Successfully cached total slime count.
+2024-08-08T12:16:52.053Z Successfully cached individual slime counts.
+2024-08-08T12:16:52.054Z Successfully cached necessary data.
+2024-08-08T12:16:52.054Z All initializations completed successfully. Bot is now ready!
+2024-08-08T12:16:52.417Z Bot is online!
+2024-08-08T12:17:51.001Z [chat] 17maple: .u me
+2024-08-08T12:17:51.361Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b4b76f533cb6596078706a"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b4b76f533cb6596078706a"}
+2024-08-08T12:17:51.409Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:17:51.422Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-08T12:17:51.811Z [chat] Klee: Woah, a slime! Klee has counted 7 slimes for 17maple
+2024-08-08T12:17:57.603Z [chat] 17maple: .u 1
+2024-08-08T12:17:58.130Z [chat] Klee: The specified username is not valid.
+2024-08-08T12:18:00.965Z [chat] 17maple: .add 1
+2024-08-08T12:18:01.332Z [chat] Klee: The specified username is not valid.
+2024-08-08T12:18:10.503Z [chat] 17maple: .add me
+2024-08-08T12:18:10.590Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b4b782533cb6596078706b"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b4b782533cb6596078706b"}
+2024-08-08T12:18:10.626Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:18:11.548Z [chat] Klee: The number of slimes 17maple has 
+                    summoned has been added by Klee (⋆˘ᗜ˘⋆✿), going from 
+                    7 to 8.
+2024-08-08T12:18:48.209Z [chat] 17maple: .u me asd
+2024-08-08T12:18:48.627Z [chat] Klee: Please enter a valid number for the numberOfSlimes to be added.
+2024-08-08T12:19:23.566Z [chat] 17maple: .u gunther
+2024-08-08T12:19:23.854Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b4b7cb533cb6596078706c"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b4b7cb533cb6596078706c"}
+2024-08-08T12:19:23.894Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:19:23.962Z [chat] Klee: <@&1192966263065034782> Gunther
+2024-08-08T12:19:24.249Z [chat] Klee: Woah, a slime! Klee has counted 19 slimes for Gunther
+2024-08-08T12:19:27.630Z [chat] 17maple: .u guntheras
+2024-08-08T12:19:27.985Z [chat] Klee: The specified username is not valid.
+2024-08-08T12:19:41.908Z [chat] 17maple: .u 1 me
+2024-08-08T12:19:43.197Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b4b7df533cb6596078706d"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b4b7df533cb6596078706d"}
+2024-08-08T12:19:43.235Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:19:43.293Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-08T12:19:43.699Z [chat] Klee: Woah, a slime! Klee has counted 9 slimes for 17maple
+2024-08-08T12:19:47.101Z [chat] 17maple: .u 1 17
+2024-08-08T12:19:47.405Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b4b7e3533cb6596078706e"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b4b7e3533cb6596078706e"}
+2024-08-08T12:19:47.442Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:19:47.491Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-08T12:19:47.805Z [chat] Klee: Woah, a slime! Klee has counted 10 slimes for 17maple
+2024-08-08T12:21:03.614Z [chat] 17maple: .add -1 me
+2024-08-08T12:21:03.776Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:21:04.218Z [chat] Klee: The number of slimes 17maple has 
+                        summoned has been subtracted by Klee (⋆˘ᗜ˘⋆✿), going from 10 
+                        to 9.
+2024-08-08T12:24:32.260Z [chat] 17maple: .zoom gunther
+2024-08-08T12:24:32.869Z [chat] Klee: The number of times Gunther zoomed has been 
+                changed from 0 to 2.
+
+                Zooms in the last 7 days: 2. 
+                ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T12:25:41.904Z [chat] 17maple: .zoom aqua
+2024-08-08T12:25:42.434Z [chat] Klee: The number of times Aquarios zoomed has been 
+                changed from 0 to 2.
+
+                Zooms in the last 7 days: 2. 
+                ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T12:25:48.184Z Closing connection to MongoDB
+2024-08-08T12:25:52.109Z Successfully connected to MongoDb server
+2024-08-08T12:25:52.111Z Successfully connected to database: test3
+2024-08-08T12:25:53.505Z Successfully initialized discord bot.
+2024-08-08T12:25:53.506Z Starting synchronization of the database with const/memberList.js.
+2024-08-08T12:25:53.556Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-08T12:25:53.556Z Successfully verified synchronization.
+2024-08-08T12:25:53.593Z Successfully cached total slime count.
+2024-08-08T12:25:53.629Z Successfully cached individual slime counts.
+2024-08-08T12:25:53.630Z Successfully cached necessary data.
+2024-08-08T12:25:53.631Z All initializations completed successfully. Bot is now ready!
+2024-08-08T12:25:54.011Z Bot is online!
+2024-08-08T12:26:00.236Z [chat] 17maple: .zoom me
+2024-08-08T12:26:00.792Z [chat] Klee: The number of times 17maple zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T12:26:17.578Z [chat] 17maple: .zoom -1 maple
+2024-08-08T12:26:17.691Z Error in command function addZoom(): Error: Aborting transaction: failed to update the person's zoomsArray in the database.
+2024-08-08T12:26:17.692Z ERROR TRACE:
+Error: Aborting transaction: failed to update the person's zoomsArray in the database.
+    at updatePersonZoomNegatively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:241:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addZoom.js:103:32)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-08T12:26:18.098Z [chat] Klee: An error occurred during the addZoom kommand, please try again later.
+2024-08-08T12:32:29.334Z [chat] 17maple: .add 1 me
+2024-08-08T12:32:29.437Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b4baddd36c9ff16136baf0"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b4baddd36c9ff16136baf0"}
+2024-08-08T12:32:29.482Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:32:29.484Z Error in command function addSlime(): TypeError: "summoned has been added by Klee (⋆˘ᗜ˘⋆✿), going from +" is not a function
+2024-08-08T12:32:29.485Z ERROR TRACE:
+TypeError: "summoned has been added by Klee (⋆˘ᗜ˘⋆✿), going from +" is not a function
+    at Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:139:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-08T12:32:29.943Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-08T12:32:54.832Z Closing connection to MongoDB
+2024-08-08T12:32:56.775Z Successfully connected to MongoDb server
+2024-08-08T12:32:56.780Z Successfully connected to database: test3
+2024-08-08T12:33:00.162Z Successfully initialized discord bot.
+2024-08-08T12:33:00.162Z Starting synchronization of the database with const/memberList.js.
+2024-08-08T12:33:00.209Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-08T12:33:00.209Z Successfully verified synchronization.
+2024-08-08T12:33:00.246Z Successfully cached total slime count.
+2024-08-08T12:33:00.285Z Successfully cached individual slime counts.
+2024-08-08T12:33:00.286Z Successfully cached necessary data.
+2024-08-08T12:33:00.287Z All initializations completed successfully. Bot is now ready!
+2024-08-08T12:33:00.641Z Bot is online!
+2024-08-08T12:33:02.383Z [chat] 17maple: .zoom -1 maple
+2024-08-08T12:33:02.954Z Error in command function addZoom(): Error: Aborting transaction: failed to update the person's zoomsArray in the database.
+2024-08-08T12:33:02.956Z ERROR TRACE:
+Error: Aborting transaction: failed to update the person's zoomsArray in the database.
+    at updatePersonZoomNegatively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:241:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addZoom.js:104:32)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-08T12:33:03.400Z [chat] Klee: An error occurred during the addZoom kommand, please try again later.
+2024-08-08T12:33:22.161Z [chat] 17maple: .add 1 me
+2024-08-08T12:33:22.241Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b4bb12345390a5606650a2"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b4bb12345390a5606650a2"}
+2024-08-08T12:33:22.283Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:33:22.705Z [chat] Klee: The number of slimes 17maple has summoned has been added by Klee (⋆˘ᗜ˘⋆✿), going from 2 to 3.
+2024-08-08T12:33:26.347Z [chat] 17maple: .add -1 me
+2024-08-08T12:33:26.499Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:33:26.851Z [chat] Klee: The number of slimes 17maple has summoned has been subtracted by Klee (⋆˘ᗜ˘⋆✿), going from 3 to 2.
+2024-08-08T12:45:18.786Z Closing connection to MongoDB
+2024-08-08T12:45:19.912Z Successfully connected to MongoDb server
+2024-08-08T12:45:19.913Z Successfully connected to database: test3
+2024-08-08T12:45:21.311Z Successfully initialized discord bot.
+2024-08-08T12:45:21.312Z Starting synchronization of the database with const/memberList.js.
+2024-08-08T12:45:21.351Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-08T12:45:21.352Z Successfully verified synchronization.
+2024-08-08T12:45:21.388Z Successfully cached total slime count.
+2024-08-08T12:45:21.424Z Successfully cached individual slime counts.
+2024-08-08T12:45:21.425Z Successfully cached necessary data.
+2024-08-08T12:45:21.425Z All initializations completed successfully. Bot is now ready!
+2024-08-08T12:45:21.835Z Bot is online!
+2024-08-08T12:45:28.910Z [chat] 17maple: .add 1 me
+2024-08-08T12:45:29.020Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b4bde8cfa61dacd3da327a"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b4bde8cfa61dacd3da327a"}
+2024-08-08T12:45:29.056Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:45:29.469Z [chat] Klee: The number of slimes 17maple has summoned has been added by Klee (⋆˘ᗜ˘⋆✿), going from 1 to 2.
+2024-08-08T12:45:35.000Z [chat] 17maple: .add -1 me
+2024-08-08T12:45:35.147Z user.slimeCount: number, numOfSlimes: number
+2024-08-08T12:45:35.624Z [chat] Klee: The number of slimes 17maple has summoned has been subtracted by Klee (⋆˘ᗜ˘⋆✿), going from 2 to 1.
+2024-08-08T12:45:41.141Z [chat] 17maple: .zoom 1 maple
+2024-08-08T12:45:41.663Z [chat] Klee: The number of times 17maple zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T12:45:54.999Z [chat] 17maple: .zoom -1 me
+2024-08-08T12:45:55.115Z Error in command function addZoom(): Error: Aborting transaction: failed to update the person's zoomsArray in the database.
+2024-08-08T12:45:55.117Z ERROR TRACE:
+Error: Aborting transaction: failed to update the person's zoomsArray in the database.
+    at updatePersonZoomNegatively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:245:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addZoom.js:104:32)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-08T12:45:55.531Z [chat] Klee: An error occurred during the addZoom kommand, please try again later.
+2024-08-08T12:46:01.363Z [chat] 17maple: .zoom 1 maple
+2024-08-08T12:46:01.997Z [chat] Klee: The number of times 17maple zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T12:51:03.947Z [chat] 17maple: .zoom 1 me
+2024-08-08T12:51:06.792Z [chat] Klee: The number of times 17maple zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T12:51:10.738Z [chat] 17maple: .zoom 1 maple
+2024-08-08T12:51:11.232Z [chat] Klee: The number of times 17maple zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T12:57:53.160Z Closing connection to MongoDB
+2024-08-08T12:57:54.369Z Successfully connected to MongoDb server
+2024-08-08T12:57:54.375Z Successfully connected to database: test3
+2024-08-08T12:57:55.885Z Successfully initialized discord bot.
+2024-08-08T12:57:55.886Z Starting synchronization of the database with const/memberList.js.
+2024-08-08T12:57:55.932Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-08T12:57:55.932Z Successfully verified synchronization.
+2024-08-08T12:57:55.965Z Successfully cached total slime count.
+2024-08-08T12:57:55.995Z Successfully cached individual slime counts.
+2024-08-08T12:57:55.995Z Successfully cached necessary data.
+2024-08-08T12:57:55.996Z All initializations completed successfully. Bot is now ready!
+2024-08-08T12:57:56.385Z Bot is online!
+2024-08-08T12:58:05.100Z [chat] 17maple: .zoom 1 maple
+2024-08-08T12:58:05.102Z [object Object]
+2024-08-08T12:58:05.102Z {"_id":"66b4c0dd3728dac0079db24c","time":"2024-08-08T12:58:05.102Z"}
+2024-08-08T12:58:05.641Z [chat] Klee: The number of times 17maple zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T13:01:37.375Z Closing connection to MongoDB
+2024-08-08T13:01:38.557Z Successfully connected to MongoDb server
+2024-08-08T13:01:38.562Z Successfully connected to database: test3
+2024-08-08T13:01:40.280Z Successfully initialized discord bot.
+2024-08-08T13:01:40.282Z Starting synchronization of the database with const/memberList.js.
+2024-08-08T13:01:40.327Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-08T13:01:40.328Z Successfully verified synchronization.
+2024-08-08T13:01:40.375Z Successfully cached total slime count.
+2024-08-08T13:01:40.410Z Successfully cached individual slime counts.
+2024-08-08T13:01:40.411Z Successfully cached necessary data.
+2024-08-08T13:01:40.412Z All initializations completed successfully. Bot is now ready!
+2024-08-08T13:01:40.774Z Bot is online!
+2024-08-08T13:01:44.529Z [chat] 17maple: .zoom 1 maple
+2024-08-08T13:01:44.578Z 
+2024-08-08T13:01:44.578Z [object Object]
+2024-08-08T13:01:44.579Z {"_id":"66b4c1b84e4f57f672b6fbea","time":"2024-08-08T13:01:44.531Z"}
+2024-08-08T13:01:45.189Z [chat] Klee: The number of times 17maple zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T13:03:32.883Z [chat] 17maple: .zoom 1 maple
+2024-08-08T13:03:32.920Z 
+2024-08-08T13:03:32.921Z [object Object]
+2024-08-08T13:03:32.921Z {"_id":"66b4c2244e4f57f672b6fbeb","time":"2024-08-08T13:03:32.884Z"}
+2024-08-08T13:03:33.430Z [chat] Klee: The number of times 17maple zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T13:10:34.986Z Closing connection to MongoDB
+2024-08-08T13:10:36.241Z Successfully connected to MongoDb server
+2024-08-08T13:10:36.243Z Successfully connected to database: test3
+2024-08-08T13:10:37.710Z Successfully initialized discord bot.
+2024-08-08T13:10:37.711Z Starting synchronization of the database with const/memberList.js.
+2024-08-08T13:10:37.757Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-08T13:10:37.758Z Successfully verified synchronization.
+2024-08-08T13:10:37.798Z Successfully cached total slime count.
+2024-08-08T13:10:37.831Z Successfully cached individual slime counts.
+2024-08-08T13:10:37.831Z Successfully cached necessary data.
+2024-08-08T13:10:37.832Z All initializations completed successfully. Bot is now ready!
+2024-08-08T13:10:38.162Z Bot is online!
+2024-08-08T13:10:44.782Z [chat] 17maple: .zoom 1 me
+2024-08-08T13:10:44.880Z {"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+2024-08-08T13:10:45.501Z [chat] Klee: The number of times 17maple zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T13:15:36.136Z Closing connection to MongoDB
+2024-08-08T17:05:32.679Z Successfully connected to MongoDb server
+2024-08-08T17:05:32.683Z Successfully connected to database: test3
+2024-08-08T17:05:34.105Z Successfully initialized discord bot.
+2024-08-08T17:05:34.106Z Starting synchronization of the database with const/memberList.js.
+2024-08-08T17:05:34.149Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-08T17:05:34.150Z Successfully verified synchronization.
+2024-08-08T17:05:34.190Z Successfully cached total slime count.
+2024-08-08T17:05:34.239Z Successfully cached individual slime counts.
+2024-08-08T17:05:34.239Z Successfully cached necessary data.
+2024-08-08T17:05:34.240Z All initializations completed successfully. Bot is now ready!
+2024-08-08T17:05:34.597Z Bot is online!
+2024-08-08T17:06:25.463Z [chat] 17maple: <:topkek:887923315342213142>  i wish
+2024-08-08T17:07:04.507Z [chat] 17maple: i just happen to be free, so im rewriting Klee from python to javascript
+2024-08-08T17:07:09.964Z [chat] 17maple: .zoom 1 me
+2024-08-08T17:07:10.059Z {"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+2024-08-08T17:07:10.548Z [chat] Klee: The number of times 17maple zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T17:07:13.030Z [chat] 17maple: .zoom 1 me
+2024-08-08T17:07:13.114Z {"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+2024-08-08T17:07:13.513Z [chat] Klee: The number of times 17maple zoomed has been changed from 1 to 2.
+Zooms in the last 7 days: 2. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-08T17:07:18.833Z [chat] 17maple: .zoom -1 me
+2024-08-08T17:07:19.346Z [chat] Klee: The number of times 17maple zoomed has been changed from 2 to 1.

@@ -1,0 +1,478 @@
+2024-08-04T12:22:00.734Z Successfully connected to MongoDb server
+2024-08-04T12:22:00.742Z Successfully connected to database: test3
+2024-08-04T12:22:02.482Z Successfully initialized discord bot.
+2024-08-04T12:22:02.483Z Starting synchronization of the database with const/memberList.js.
+2024-08-04T12:22:02.523Z No documents found in the database. Assuming this is a new collection.
+2024-08-04T12:22:02.604Z Person document inserted with _id: 253994447782543361
+2024-08-04T12:22:02.605Z Added 17maple with ID 253994447782543361 to the database.
+2024-08-04T12:22:02.656Z Person document inserted with _id: 359361962414440449
+2024-08-04T12:22:02.657Z Added Cats On Mars with ID 359361962414440449 to the database.
+2024-08-04T12:22:02.696Z Person document inserted with _id: 400768894521966604
+2024-08-04T12:22:02.696Z Added luxury777 with ID 400768894521966604 to the database.
+2024-08-04T12:22:02.732Z Person document inserted with _id: 207111511410212865
+2024-08-04T12:22:02.733Z Added Moss with ID 207111511410212865 to the database.
+2024-08-04T12:22:02.772Z Person document inserted with _id: 207924668844212225
+2024-08-04T12:22:02.773Z Added Vent with ID 207924668844212225 to the database.
+2024-08-04T12:22:02.821Z Person document inserted with _id: 342742678531997718
+2024-08-04T12:22:02.821Z Added Aevum with ID 342742678531997718 to the database.
+2024-08-04T12:22:02.864Z Person document inserted with _id: alt-207924668844212225
+2024-08-04T12:22:02.865Z Added aile with ID alt-207924668844212225 to the database.
+2024-08-04T12:22:02.908Z Person document inserted with _id: 234077877958606849
+2024-08-04T12:22:02.909Z Added Ainthe with ID 234077877958606849 to the database.
+2024-08-04T12:22:02.947Z Person document inserted with _id: 563787164987686925
+2024-08-04T12:22:02.948Z Added Angel with ID 563787164987686925 to the database.
+2024-08-04T12:22:02.995Z Person document inserted with _id: 342895832057643018
+2024-08-04T12:22:02.996Z Added Aquarios with ID 342895832057643018 to the database.
+2024-08-04T12:22:03.039Z Person document inserted with _id: 949595232448679976
+2024-08-04T12:22:03.040Z Added Bulbasaur with ID 949595232448679976 to the database.
+2024-08-04T12:22:03.080Z Person document inserted with _id: 418389541976670218
+2024-08-04T12:22:03.081Z Added ChaoLegend with ID 418389541976670218 to the database.
+2024-08-04T12:22:03.124Z Person document inserted with _id: 362102976581599241
+2024-08-04T12:22:03.124Z Added CloudExt with ID 362102976581599241 to the database.
+2024-08-04T12:22:03.150Z Bot is online!
+2024-08-04T12:22:03.162Z Person document inserted with _id: 884080970666504202
+2024-08-04T12:22:03.162Z Added Collin with ID 884080970666504202 to the database.
+2024-08-04T12:22:03.203Z Person document inserted with _id: 153660394349658112
+2024-08-04T12:22:03.204Z Added Consutron with ID 153660394349658112 to the database.
+2024-08-04T12:22:03.243Z Person document inserted with _id: 683347894585131054
+2024-08-04T12:22:03.244Z Added DaFoo with ID 683347894585131054 to the database.
+2024-08-04T12:22:03.278Z Person document inserted with _id: 274133775917645824
+2024-08-04T12:22:03.279Z Added Dan with ID 274133775917645824 to the database.
+2024-08-04T12:22:03.320Z Person document inserted with _id: 509185049346834453
+2024-08-04T12:22:03.321Z Added DoujinKAMI with ID 509185049346834453 to the database.
+2024-08-04T12:22:03.363Z Person document inserted with _id: 926128198574547024
+2024-08-04T12:22:03.363Z Added GoldHunter with ID 926128198574547024 to the database.
+2024-08-04T12:22:03.405Z Person document inserted with _id: 315112026093649920
+2024-08-04T12:22:03.405Z Added Gunther with ID 315112026093649920 to the database.
+2024-08-04T12:22:03.442Z Person document inserted with _id: 1032794678522810399
+2024-08-04T12:22:03.443Z Added Heart with ID 1032794678522810399 to the database.
+2024-08-04T12:22:03.478Z Person document inserted with _id: 202635850599759873
+2024-08-04T12:22:03.479Z Added Ioni with ID 202635850599759873 to the database.
+2024-08-04T12:22:03.514Z Person document inserted with _id: 211679799867998218
+2024-08-04T12:22:03.515Z Added eph | booyah with ID 211679799867998218 to the database.
+2024-08-04T12:22:03.554Z Person document inserted with _id: 403847682633760778
+2024-08-04T12:22:03.555Z Added Jay with ID 403847682633760778 to the database.
+2024-08-04T12:22:03.599Z Person document inserted with _id: 509805857425588224
+2024-08-04T12:22:03.600Z Added Kenshin with ID 509805857425588224 to the database.
+2024-08-04T12:22:03.635Z Person document inserted with _id: 551021107952484362
+2024-08-04T12:22:03.636Z Added KekkoKamen with ID 551021107952484362 to the database.
+2024-08-04T12:22:03.673Z Person document inserted with _id: 80488161343442944
+2024-08-04T12:22:03.673Z Added Khucie with ID 80488161343442944 to the database.
+2024-08-04T12:22:03.715Z Person document inserted with _id: 139262103214227456
+2024-08-04T12:22:03.716Z Added Link2D3atH with ID 139262103214227456 to the database.
+2024-08-04T12:22:03.749Z Person document inserted with _id: 560576301149192203
+2024-08-04T12:22:03.750Z Added Mantis9 with ID 560576301149192203 to the database.
+2024-08-04T12:22:03.801Z Person document inserted with _id: alt-560576301149192203
+2024-08-04T12:22:03.802Z Added Blaire (mantis) with ID alt-560576301149192203 to the database.
+2024-08-04T12:22:03.843Z Person document inserted with _id: 427948707657547776
+2024-08-04T12:22:03.843Z Added Milhouse with ID 427948707657547776 to the database.
+2024-08-04T12:22:03.885Z Person document inserted with _id: 593456655098707978
+2024-08-04T12:22:03.886Z Added Minh with ID 593456655098707978 to the database.
+2024-08-04T12:22:03.929Z Person document inserted with _id: 201177323293114368
+2024-08-04T12:22:03.929Z Added Mixer with ID 201177323293114368 to the database.
+2024-08-04T12:22:03.969Z Person document inserted with _id: 250779681257684992
+2024-08-04T12:22:03.969Z Added MoonMan with ID 250779681257684992 to the database.
+2024-08-04T12:22:04.011Z Person document inserted with _id: 282244124290318337
+2024-08-04T12:22:04.012Z Added MountinTim with ID 282244124290318337 to the database.
+2024-08-04T12:22:04.049Z Person document inserted with _id: 553055447469522944
+2024-08-04T12:22:04.049Z Added Odyn with ID 553055447469522944 to the database.
+2024-08-04T12:22:04.093Z Person document inserted with _id: 589670090752917524
+2024-08-04T12:22:04.093Z Added pawpaw with ID 589670090752917524 to the database.
+2024-08-04T12:22:04.137Z Person document inserted with _id: 202214566698942464
+2024-08-04T12:22:04.138Z Added Pang with ID 202214566698942464 to the database.
+2024-08-04T12:22:04.179Z Person document inserted with _id: 364344681129312257
+2024-08-04T12:22:04.180Z Added Pengest with ID 364344681129312257 to the database.
+2024-08-04T12:22:04.218Z Person document inserted with _id: 611063840041467939
+2024-08-04T12:22:04.219Z Added Ranchymang with ID 611063840041467939 to the database.
+2024-08-04T12:22:04.258Z Person document inserted with _id: 274682038970482688
+2024-08-04T12:22:04.259Z Added ReddlsRow with ID 274682038970482688 to the database.
+2024-08-04T12:22:04.301Z Person document inserted with _id: 130852537199886337
+2024-08-04T12:22:04.302Z Added SenorTonto with ID 130852537199886337 to the database.
+2024-08-04T12:22:04.348Z Person document inserted with _id: 134863783444086784
+2024-08-04T12:22:04.349Z Added Spike/Chitoge with ID 134863783444086784 to the database.
+2024-08-04T12:22:04.390Z Person document inserted with _id: 120031148557598722
+2024-08-04T12:22:04.390Z Added Sweeps with ID 120031148557598722 to the database.
+2024-08-04T12:22:04.433Z Person document inserted with _id: 176147192719998977
+2024-08-04T12:22:04.434Z Added Tachii with ID 176147192719998977 to the database.
+2024-08-04T12:22:04.474Z Person document inserted with _id: 394763425777057794
+2024-08-04T12:22:04.475Z Added Tatumi with ID 394763425777057794 to the database.
+2024-08-04T12:22:04.517Z Person document inserted with _id: 826618819191242792
+2024-08-04T12:22:04.518Z Added Tedo with ID 826618819191242792 to the database.
+2024-08-04T12:22:04.563Z Person document inserted with _id: 197085461624127488
+2024-08-04T12:22:04.564Z Added Thaelon with ID 197085461624127488 to the database.
+2024-08-04T12:22:04.600Z Person document inserted with _id: 292615553942683648
+2024-08-04T12:22:04.601Z Added Tympest with ID 292615553942683648 to the database.
+2024-08-04T12:22:04.638Z Person document inserted with _id: 396398521462554624
+2024-08-04T12:22:04.639Z Added Foxcolt with ID 396398521462554624 to the database.
+2024-08-04T12:22:04.675Z Person document inserted with _id: 215506389353758720
+2024-08-04T12:22:04.676Z Added Zerefsis with ID 215506389353758720 to the database.
+2024-08-04T12:22:04.717Z Person document inserted with _id: alt-506124628188594181
+2024-08-04T12:22:04.718Z Added deeznauts with ID alt-506124628188594181 to the database.
+2024-08-04T12:22:04.760Z Person document inserted with _id: 506124628188594181
+2024-08-04T12:22:04.761Z Added donuts with ID 506124628188594181 to the database.
+2024-08-04T12:22:04.799Z Person document inserted with _id: 847443895327785030
+2024-08-04T12:22:04.800Z Added esyw with ID 847443895327785030 to the database.
+2024-08-04T12:22:04.843Z Person document inserted with _id: 961291207210856448
+2024-08-04T12:22:04.843Z Added fiE with ID 961291207210856448 to the database.
+2024-08-04T12:22:04.881Z Person document inserted with _id: 187764065131560960
+2024-08-04T12:22:04.881Z Added leafa with ID 187764065131560960 to the database.
+2024-08-04T12:22:04.924Z Person document inserted with _id: 500124144755671040
+2024-08-04T12:22:04.925Z Added mUmU with ID 500124144755671040 to the database.
+2024-08-04T12:22:04.970Z Person document inserted with _id: 414540032981073921
+2024-08-04T12:22:04.971Z Added nero131 with ID 414540032981073921 to the database.
+2024-08-04T12:22:05.012Z Person document inserted with _id: 238091448073846784
+2024-08-04T12:22:05.013Z Added rocketeer with ID 238091448073846784 to the database.
+2024-08-04T12:22:05.051Z Person document inserted with _id: 260137946701627392
+2024-08-04T12:22:05.052Z Added tra20012 with ID 260137946701627392 to the database.
+2024-08-04T12:22:05.090Z Person document inserted with _id: 120428736637173760
+2024-08-04T12:22:05.091Z Added traffyboi with ID 120428736637173760 to the database.
+2024-08-04T12:22:05.131Z Person document inserted with _id: 579199616143327258
+2024-08-04T12:22:05.131Z Added variant with ID 579199616143327258 to the database.
+2024-08-04T12:22:05.169Z Person document inserted with _id: 689319997230940233
+2024-08-04T12:22:05.170Z Added yokiz with ID 689319997230940233 to the database.
+2024-08-04T12:22:05.212Z Person document inserted with _id: 563082215198556211
+2024-08-04T12:22:05.213Z Added zero00 with ID 563082215198556211 to the database.
+2024-08-04T12:22:05.256Z Person document inserted with _id: 465942228791984149
+2024-08-04T12:22:05.256Z Added GonBu with ID 465942228791984149 to the database.
+2024-08-04T12:22:05.290Z Person document inserted with _id: 216134070692741120
+2024-08-04T12:22:05.290Z Added CerviDear with ID 216134070692741120 to the database.
+2024-08-04T12:22:05.331Z Person document inserted with _id: 464550985877028878
+2024-08-04T12:22:05.332Z Added GeeAitch with ID 464550985877028878 to the database.
+2024-08-04T12:22:05.371Z Person document inserted with _id: 286254133067907073
+2024-08-04T12:22:05.371Z Added HissingCat with ID 286254133067907073 to the database.
+2024-08-04T12:22:05.406Z Person document inserted with _id: 458271611456585739
+2024-08-04T12:22:05.406Z Added Kenjiyoyo with ID 458271611456585739 to the database.
+2024-08-04T12:22:05.451Z Person document inserted with _id: 174762571059036160
+2024-08-04T12:22:05.451Z Added Miki with ID 174762571059036160 to the database.
+2024-08-04T12:22:05.487Z Person document inserted with _id: 1025797495416160389
+2024-08-04T12:22:05.487Z Added Neal with ID 1025797495416160389 to the database.
+2024-08-04T12:22:05.523Z Person document inserted with _id: 528785775169372176
+2024-08-04T12:22:05.524Z Added Sundays with ID 528785775169372176 to the database.
+2024-08-04T12:22:05.559Z Person document inserted with _id: 315236018477596712
+2024-08-04T12:22:05.560Z Added Syfare with ID 315236018477596712 to the database.
+2024-08-04T12:22:05.560Z The database has been synced up with const/memberList.js. 73 new members were added.
+2024-08-04T12:22:05.561Z Successfully verified synchronization.
+2024-08-04T12:22:05.596Z Successfully cached total slime count.
+2024-08-04T12:22:05.645Z Successfully cached individual slime counts.
+2024-08-04T12:22:05.645Z Successfully cached necessary data.
+2024-08-04T12:25:16.280Z [chat] 17maple: .u
+2024-08-04T12:25:16.810Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-04T12:25:16.885Z Error in command function addSlime(): Error: Aborting transaction: failed to insert all corresponding slime documents into slimeRecordsCollection in the database.
+2024-08-04T12:25:16.886Z ERROR TRACE:
+Error: Aborting transaction: failed to insert all corresponding slime documents into slimeRecordsCollection in the database.
+    at updatePersonSlimesPositively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:58:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:113:17)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-04T12:25:17.331Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-04T12:27:35.462Z Closing connection to MongoDB
+2024-08-04T12:27:39.280Z Successfully connected to MongoDb server
+2024-08-04T12:27:39.284Z Successfully connected to database: test3
+2024-08-04T12:27:41.010Z Successfully initialized discord bot.
+2024-08-04T12:27:41.011Z Starting synchronization of the database with const/memberList.js.
+2024-08-04T12:27:41.056Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-04T12:27:41.056Z Successfully verified synchronization.
+2024-08-04T12:27:41.089Z Successfully cached total slime count.
+2024-08-04T12:27:41.126Z Successfully cached individual slime counts.
+2024-08-04T12:27:41.127Z Successfully cached necessary data.
+2024-08-04T12:28:30.109Z Successfully connected to MongoDb server
+2024-08-04T12:28:30.113Z Successfully connected to database: test3
+2024-08-04T12:28:31.876Z Successfully initialized discord bot.
+2024-08-04T12:28:31.877Z Starting synchronization of the database with const/memberList.js.
+2024-08-04T12:28:31.929Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-04T12:28:31.929Z Successfully verified synchronization.
+2024-08-04T12:28:31.966Z Successfully cached total slime count.
+2024-08-04T12:28:32.006Z Successfully cached individual slime counts.
+2024-08-04T12:28:32.006Z Successfully cached necessary data.
+2024-08-04T12:28:32.006Z All initializations completed successfully. Bot is now ready!
+2024-08-04T12:28:32.561Z Bot is online!
+2024-08-04T12:32:17.851Z [chat] 17maple: .u
+2024-08-04T12:32:18.316Z Error in command function addSlime(): ReferenceError: log is not defined
+2024-08-04T12:32:18.317Z ERROR TRACE:
+ReferenceError: log is not defined
+    at updatePersonSlimesPositively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:56:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:113:17)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-04T12:32:18.390Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-04T12:32:18.740Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-04T12:33:19.259Z Closing connection to MongoDB
+2024-08-04T12:33:24.211Z Successfully connected to MongoDb server
+2024-08-04T12:33:24.216Z Successfully connected to database: test3
+2024-08-04T12:33:25.936Z Successfully initialized discord bot.
+2024-08-04T12:33:25.937Z Starting synchronization of the database with const/memberList.js.
+2024-08-04T12:33:25.995Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-04T12:33:25.997Z Successfully verified synchronization.
+2024-08-04T12:33:26.041Z Successfully cached total slime count.
+2024-08-04T12:33:26.080Z Successfully cached individual slime counts.
+2024-08-04T12:33:26.080Z Successfully cached necessary data.
+2024-08-04T12:33:26.081Z All initializations completed successfully. Bot is now ready!
+2024-08-04T12:33:26.629Z Bot is online!
+2024-08-04T12:33:44.288Z [chat] 17maple: .u
+2024-08-04T12:33:44.651Z insertResult for debug: [object Object]
+2024-08-04T12:33:44.688Z Error in command function addSlime(): Error: Aborting transaction: failed to insert all corresponding slime documents into slimeRecordsCollection in the database.
+2024-08-04T12:33:44.690Z ERROR TRACE:
+Error: Aborting transaction: failed to insert all corresponding slime documents into slimeRecordsCollection in the database.
+    at updatePersonSlimesPositively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:61:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:113:17)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-04T12:33:44.825Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-04T12:33:45.118Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-04T12:34:41.758Z Closing connection to MongoDB
+2024-08-04T12:34:46.438Z Successfully connected to MongoDb server
+2024-08-04T12:34:46.443Z Successfully connected to database: test3
+2024-08-04T12:34:48.112Z Successfully initialized discord bot.
+2024-08-04T12:34:48.113Z Starting synchronization of the database with const/memberList.js.
+2024-08-04T12:34:48.157Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-04T12:34:48.157Z Successfully verified synchronization.
+2024-08-04T12:34:48.197Z Successfully cached total slime count.
+2024-08-04T12:34:48.236Z Successfully cached individual slime counts.
+2024-08-04T12:34:48.236Z Successfully cached necessary data.
+2024-08-04T12:34:48.238Z All initializations completed successfully. Bot is now ready!
+2024-08-04T12:34:48.797Z Bot is online!
+2024-08-04T12:34:51.407Z [chat] 17maple: .u
+2024-08-04T12:34:51.814Z insertResult for debug: [object Object], insertResult[0]: undefined, insertResult[1]: undefined
+2024-08-04T12:34:51.854Z Error in command function addSlime(): Error: Aborting transaction: failed to insert all corresponding slime documents into slimeRecordsCollection in the database.
+2024-08-04T12:34:51.855Z ERROR TRACE:
+Error: Aborting transaction: failed to insert all corresponding slime documents into slimeRecordsCollection in the database.
+    at updatePersonSlimesPositively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:61:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:113:17)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-04T12:34:51.884Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-04T12:34:52.339Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-04T12:43:32.319Z Closing connection to MongoDB
+2024-08-04T12:43:36.040Z Successfully connected to MongoDb server
+2024-08-04T12:43:36.044Z Successfully connected to database: test3
+2024-08-04T12:43:37.864Z Successfully initialized discord bot.
+2024-08-04T12:43:37.865Z Starting synchronization of the database with const/memberList.js.
+2024-08-04T12:43:37.914Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-04T12:43:37.914Z Successfully verified synchronization.
+2024-08-04T12:43:37.950Z Successfully cached total slime count.
+2024-08-04T12:43:37.991Z Successfully cached individual slime counts.
+2024-08-04T12:43:37.991Z Successfully cached necessary data.
+2024-08-04T12:43:37.992Z All initializations completed successfully. Bot is now ready!
+2024-08-04T12:43:38.573Z Bot is online!
+2024-08-04T12:43:45.036Z [chat] 17maple: .u
+2024-08-04T12:43:45.375Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7781887bc7f8132323fc"}}, insertedCount: 1, insertedIds: {"0":"66af7781887bc7f8132323fc"}
+2024-08-04T12:43:45.412Z Error in command function addSlime(): Error: Aborting transaction: failed to insert all corresponding slime documents into slimeRecordsCollection in the database.
+2024-08-04T12:43:45.412Z ERROR TRACE:
+Error: Aborting transaction: failed to insert all corresponding slime documents into slimeRecordsCollection in the database.
+    at updatePersonSlimesPositively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:61:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:113:17)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-04T12:43:45.549Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-04T12:43:45.854Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-04T12:46:06.860Z [chat] 17maple: .u
+2024-08-04T12:46:07.285Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af780f887bc7f8132323fd"}}, insertedCount: 1, insertedIds: {"0":"66af780f887bc7f8132323fd"}
+2024-08-04T12:46:07.325Z Error in command function addSlime(): Error: Aborting transaction: failed to insert all corresponding slime documents into slimeRecordsCollection in the database.
+2024-08-04T12:46:07.326Z ERROR TRACE:
+Error: Aborting transaction: failed to insert all corresponding slime documents into slimeRecordsCollection in the database.
+    at updatePersonSlimesPositively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:61:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:113:17)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-04T12:46:07.435Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-04T12:46:07.771Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-04T12:46:13.832Z Closing connection to MongoDB
+2024-08-04T12:47:55.797Z Successfully connected to MongoDb server
+2024-08-04T12:47:55.802Z Successfully connected to database: test3
+2024-08-04T12:47:57.529Z Successfully initialized discord bot.
+2024-08-04T12:47:57.530Z Starting synchronization of the database with const/memberList.js.
+2024-08-04T12:47:57.580Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-04T12:47:57.581Z Successfully verified synchronization.
+2024-08-04T12:47:57.625Z Successfully cached total slime count.
+2024-08-04T12:47:57.667Z Successfully cached individual slime counts.
+2024-08-04T12:47:57.668Z Successfully cached necessary data.
+2024-08-04T12:47:57.669Z All initializations completed successfully. Bot is now ready!
+2024-08-04T12:47:58.211Z Bot is online!
+2024-08-04T12:48:01.463Z [chat] 17maple: .u
+2024-08-04T12:48:01.767Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af78813dcc8287ae45b57f"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af78813dcc8287ae45b57f"}
+2024-08-04T12:48:01.931Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-04T12:48:02.368Z [chat] Klee: Woah, a slime. Klee has counted 1 
+                    slimes for 17maple
+2024-08-04T12:52:05.474Z Closing connection to MongoDB
+2024-08-04T12:52:17.538Z Successfully connected to MongoDb server
+2024-08-04T12:52:17.543Z Successfully connected to database: test3
+2024-08-04T12:52:19.341Z Successfully initialized discord bot.
+2024-08-04T12:52:19.342Z Starting synchronization of the database with const/memberList.js.
+2024-08-04T12:52:19.391Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-04T12:52:19.392Z Successfully verified synchronization.
+2024-08-04T12:52:19.435Z Successfully cached total slime count.
+2024-08-04T12:52:19.477Z Successfully cached individual slime counts.
+2024-08-04T12:52:19.478Z Successfully cached necessary data.
+2024-08-04T12:52:19.478Z All initializations completed successfully. Bot is now ready!
+2024-08-04T12:52:20.007Z Bot is online!
+2024-08-04T12:52:29.762Z [chat] 17maple: .u
+2024-08-04T12:52:30.203Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af798e214124316a1dccfc"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af798e214124316a1dccfc"}
+2024-08-04T12:52:30.319Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-04T12:52:30.692Z [chat] Klee: Woah, a slime! Klee has counted 2 slimes for 17maple
+2024-08-04T12:53:34.207Z [chat] 17maple: .u 1
+2024-08-04T12:53:34.209Z Error in command function addSlime(): TypeError: Cannot read properties of undefined (reading 'startsWith')
+2024-08-04T12:53:34.210Z ERROR TRACE:
+TypeError: Cannot read properties of undefined (reading 'startsWith')
+    at idSearch (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/helpers/members.js:45:14)
+    at Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:40:33)
+    at Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:27)
+    at Client.emit (node:events:520:28)
+    at MessageCreateAction.handle (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/actions/MessageCreate.js:28:14)
+    at module.exports [as MESSAGE_CREATE] (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:239:12)
+    at WebSocketManager.emit (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:285:31)
+    at WebSocketShard.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@discordjs/ws/dist/index.js:1190:51)
+# TRACE END
+
+2024-08-04T12:53:34.765Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-04T12:54:07.170Z [chat] 17maple: .u user
+2024-08-04T12:54:07.171Z Error in command function addSlime(): TypeError: Cannot read properties of undefined (reading 'startsWith')
+2024-08-04T12:54:07.172Z ERROR TRACE:
+TypeError: Cannot read properties of undefined (reading 'startsWith')
+    at idSearch (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/helpers/members.js:45:14)
+    at Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:40:33)
+    at Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:27)
+    at Client.emit (node:events:520:28)
+    at MessageCreateAction.handle (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/actions/MessageCreate.js:28:14)
+    at module.exports [as MESSAGE_CREATE] (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:239:12)
+    at WebSocketManager.emit (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:285:31)
+    at WebSocketShard.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@discordjs/ws/dist/index.js:1190:51)
+# TRACE END
+
+2024-08-04T12:54:07.716Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-04T12:54:10.856Z [chat] 17maple: .u me
+2024-08-04T12:54:10.857Z Error in command function addSlime(): TypeError: Cannot read properties of undefined (reading 'startsWith')
+2024-08-04T12:54:10.858Z ERROR TRACE:
+TypeError: Cannot read properties of undefined (reading 'startsWith')
+    at idSearch (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/helpers/members.js:45:14)
+    at Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addSlime.js:40:33)
+    at Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:27)
+    at Client.emit (node:events:520:28)
+    at MessageCreateAction.handle (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/actions/MessageCreate.js:28:14)
+    at module.exports [as MESSAGE_CREATE] (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/discord.js/src/client/websocket/WebSocketManager.js:239:12)
+    at WebSocketManager.emit (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:285:31)
+    at WebSocketShard.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/node_modules/@discordjs/ws/dist/index.js:1190:51)
+# TRACE END
+
+2024-08-04T12:54:11.325Z [chat] Klee: An error occurred during the addSlime kommand, please try again later.
+2024-08-04T12:56:18.867Z [chat] 17maple: .u 1 me
+2024-08-04T12:56:19.429Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-04T12:56:19.572Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7a73214124316a1dccfd"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af7a73214124316a1dccfd"}
+2024-08-04T12:56:20.124Z [chat] Klee: Woah, a slime! Klee has counted 21 slimes for 17maple
+2024-08-04T12:56:31.379Z [chat] 17maple: .u
+2024-08-04T12:56:31.663Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7a7f214124316a1dccfe"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af7a7f214124316a1dccfe"}
+2024-08-04T12:56:31.861Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-04T12:56:32.165Z [chat] Klee: Woah, a slime! Klee has counted 211 slimes for 17maple
+2024-08-04T12:57:11.267Z [chat] 17maple: <:copium:941355231298609162>
+2024-08-04T13:05:13.819Z Closing connection to MongoDB
+2024-08-04T13:05:17.497Z Successfully connected to MongoDb server
+2024-08-04T13:05:17.501Z Successfully connected to database: test3
+2024-08-04T13:05:19.200Z Successfully initialized discord bot.
+2024-08-04T13:05:19.201Z Starting synchronization of the database with const/memberList.js.
+2024-08-04T13:05:19.247Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-04T13:05:19.248Z Successfully verified synchronization.
+2024-08-04T13:05:19.285Z Successfully cached total slime count.
+2024-08-04T13:05:19.322Z Successfully cached individual slime counts.
+2024-08-04T13:05:19.322Z Successfully cached necessary data.
+2024-08-04T13:05:19.323Z All initializations completed successfully. Bot is now ready!
+2024-08-04T13:05:19.869Z Bot is online!
+2024-08-04T13:05:27.509Z [chat] 17maple: .u gunther
+2024-08-04T13:05:27.825Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7c973e106687b2fedeaf"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af7c973e106687b2fedeaf"}
+2024-08-04T13:05:27.868Z user.slimeCount: number, numOfSlimes: number
+2024-08-04T13:05:27.992Z [chat] Klee: <@&1192966263065034782> Gunther
+2024-08-04T13:05:28.332Z [chat] Klee: Woah, a slime! Klee has counted 1 slimes for Gunther
+2024-08-04T13:05:39.922Z [chat] 17maple: .u gunther
+2024-08-04T13:05:40.245Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7ca43e106687b2fedeb0"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af7ca43e106687b2fedeb0"}
+2024-08-04T13:05:40.284Z user.slimeCount: number, numOfSlimes: number
+2024-08-04T13:05:40.430Z [chat] Klee: <@&1192966263065034782> Gunther
+2024-08-04T13:05:40.719Z [chat] Klee: Woah, a slime! Klee has counted 2 slimes for Gunther
+2024-08-04T13:05:42.015Z [chat] 17maple: .u gunther
+2024-08-04T13:05:42.438Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7ca63e106687b2fedeb1"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af7ca63e106687b2fedeb1"}
+2024-08-04T13:05:42.483Z user.slimeCount: number, numOfSlimes: number
+2024-08-04T13:05:42.576Z [chat] Klee: <@&1192966263065034782> Gunther
+2024-08-04T13:05:42.977Z [chat] Klee: Woah, a slime! Klee has counted 3 slimes for Gunther
+2024-08-04T13:05:47.264Z [chat] 17maple: .u 1 gunther
+2024-08-04T13:05:47.602Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7cab3e106687b2fedeb2"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af7cab3e106687b2fedeb2"}
+2024-08-04T13:05:47.641Z user.slimeCount: number, numOfSlimes: string
+2024-08-04T13:05:47.752Z [chat] Klee: <@&1192966263065034782> Gunther
+2024-08-04T13:05:48.082Z [chat] Klee: Woah, a slime! Klee has counted 31 slimes for Gunther
+2024-08-04T13:16:26.717Z Closing connection to MongoDB
+2024-08-04T13:17:27.235Z Successfully connected to MongoDb server
+2024-08-04T13:17:27.241Z Successfully connected to database: test3
+2024-08-04T13:17:29.140Z Successfully initialized discord bot.
+2024-08-04T13:17:29.141Z Starting synchronization of the database with const/memberList.js.
+2024-08-04T13:17:29.189Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-04T13:17:29.190Z Successfully verified synchronization.
+2024-08-04T13:17:29.237Z Successfully cached total slime count.
+2024-08-04T13:17:29.276Z Successfully cached individual slime counts.
+2024-08-04T13:17:29.276Z Successfully cached necessary data.
+2024-08-04T13:17:29.277Z All initializations completed successfully. Bot is now ready!
+2024-08-04T13:17:29.836Z Bot is online!
+2024-08-04T13:17:55.214Z [chat] 17maple: .u gunther
+2024-08-04T13:17:55.559Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7f83d96db268283ec98b"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af7f83d96db268283ec98b"}
+2024-08-04T13:17:55.604Z user.slimeCount: number, numOfSlimes: number
+2024-08-04T13:17:55.722Z [chat] Klee: <@&1192966263065034782> Gunther
+2024-08-04T13:17:56.040Z [chat] Klee: Woah, a slime! Klee has counted 5 slimes for Gunther
+2024-08-04T13:18:00.099Z [chat] 17maple: .u gunther
+2024-08-04T13:18:00.366Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7f88d96db268283ec98c"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af7f88d96db268283ec98c"}
+2024-08-04T13:18:00.413Z user.slimeCount: number, numOfSlimes: number
+2024-08-04T13:18:00.537Z [chat] Klee: <@&1192966263065034782> Gunther
+2024-08-04T13:18:00.838Z [chat] Klee: Woah, a slime! Klee has counted 6 slimes for Gunther
+2024-08-04T13:18:04.258Z [chat] 17maple: .u 1 gunther
+2024-08-04T13:18:04.550Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7f8cd96db268283ec98d"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af7f8cd96db268283ec98d"}
+2024-08-04T13:18:04.591Z user.slimeCount: number, numOfSlimes: number
+2024-08-04T13:18:04.729Z [chat] Klee: <@&1192966263065034782> Gunther
+2024-08-04T13:18:05.016Z [chat] Klee: Woah, a slime! Klee has counted 7 slimes for Gunther
+2024-08-04T13:18:10.634Z [chat] 17maple: .u 10 gunther
+2024-08-04T13:18:10.954Z insertResult for debug: {"acknowledged":true,"insertedCount":10,"insertedIds":{"0":"66af7f92d96db268283ec98e","1":"66af7f92d96db268283ec98f","2":"66af7f92d96db268283ec990","3":"66af7f92d96db268283ec991","4":"66af7f92d96db268283ec992","5":"66af7f92d96db268283ec993","6":"66af7f92d96db268283ec994","7":"66af7f92d96db268283ec995","8":"66af7f92d96db268283ec996","9":"66af7f92d96db268283ec997"}}, 
+        insertedCount: 10, 
+        insertedIds: {"0":"66af7f92d96db268283ec98e","1":"66af7f92d96db268283ec98f","2":"66af7f92d96db268283ec990","3":"66af7f92d96db268283ec991","4":"66af7f92d96db268283ec992","5":"66af7f92d96db268283ec993","6":"66af7f92d96db268283ec994","7":"66af7f92d96db268283ec995","8":"66af7f92d96db268283ec996","9":"66af7f92d96db268283ec997"}
+2024-08-04T13:18:10.998Z user.slimeCount: number, numOfSlimes: number
+2024-08-04T13:18:11.132Z [chat] Klee: <@&1192966263065034782> Gunther
+2024-08-04T13:18:11.473Z [chat] Klee: Woah, a slime! Klee has counted 17 slimes for Gunther
+2024-08-04T13:18:13.036Z [chat] 17maple: .u gunther
+2024-08-04T13:18:13.497Z [chat] Klee: <@&1192966263065034782> Gunther
+2024-08-04T13:18:13.596Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66af7f95d96db268283ec998"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66af7f95d96db268283ec998"}
+2024-08-04T13:18:13.633Z user.slimeCount: number, numOfSlimes: number
+2024-08-04T13:18:14.081Z [chat] Klee: Woah, a slime! Klee has counted 18 slimes for Gunther

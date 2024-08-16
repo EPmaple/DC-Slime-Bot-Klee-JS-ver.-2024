@@ -1,0 +1,255 @@
+2024-08-02T12:36:02.871Z Connected successfully to MongoDb server
+2024-08-02T12:36:02.876Z Connected successfully to database test2
+2024-08-02T12:36:02.877Z Error in init function initBot(): Error: Cannot find module '../commands/addMember.js'
+Require stack:
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/handlers/kommandHandler.js
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/discord/initBot.js
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js
+2024-08-02T12:36:02.877Z ERROR TRACE:
+Error: Cannot find module '../commands/addMember.js'
+Require stack:
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/handlers/kommandHandler.js
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/discord/initBot.js
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1219:15)
+    at Module._load (node:internal/modules/cjs/loader:1045:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at module.exports (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/handlers/kommandHandler.js:30:25)
+    at initBot (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/discord/initBot.js:18:9)
+    at main (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js:10:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+# TRACE END
+
+2024-08-02T12:38:49.569Z Connected successfully to MongoDb server
+2024-08-02T12:38:49.571Z Connected successfully to database: test2
+2024-08-02T12:38:49.572Z Error in init function initBot(): Error: Cannot find module '../kommands/addMember.js'
+Require stack:
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/handlers/kommandHandler.js
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/discord/initBot.js
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js
+2024-08-02T12:38:49.572Z ERROR TRACE:
+Error: Cannot find module '../kommands/addMember.js'
+Require stack:
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/handlers/kommandHandler.js
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/discord/initBot.js
+- /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1219:15)
+    at Module._load (node:internal/modules/cjs/loader:1045:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at module.exports (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/handlers/kommandHandler.js:30:25)
+    at initBot (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/discord/initBot.js:18:9)
+    at main (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js:10:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+# TRACE END
+
+2024-08-02T12:40:23.576Z Connected successfully to MongoDb server
+2024-08-02T12:40:23.578Z Connected successfully to database: test2
+2024-08-02T12:40:25.193Z Discord bot initialized successfully.
+2024-08-02T12:40:25.194Z Starting synchronization of the database with const/memberList.js.
+2024-08-02T12:40:25.208Z Error in init function initSynchronization(): Error: The length of the result array is zero, meaning there is no doc in the peopleCollection.
+2024-08-02T12:40:25.209Z ERROR TRACE:
+Error: The length of the result array is zero, meaning there is no doc in the peopleCollection.
+    at getNameAndId (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/database/read.js:139:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async syncMembers (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/helpers/initSync.js:24:27)
+    at async initSynchronization (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/helpers/initSync.js:11:9)
+    at async main (/Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js:11:9)
+    at async /Users/a654172382/Desktop/May 2024 DC sliem bot klee JS/index.js:27:5
+# TRACE END
+
+2024-08-02T13:06:16.923Z Successfully connected to MongoDb server
+2024-08-02T13:06:16.928Z Successfully connected to database: test2
+2024-08-02T13:06:19.004Z Successfully initialized discord bot.
+2024-08-02T13:06:19.005Z Starting synchronization of the database with const/memberList.js.
+2024-08-02T13:06:19.016Z No documents found in the database. Assuming this is a new collection.
+/*
+The error message indicates a TypeError when attempting to call insertOne on undefined.
+This suggests that the object (peopleCollection) on which insertOne is being called is undefined.
+*/
+2024-08-02T13:06:19.016Z Error in init function initSynchronization(): TypeError: Cannot read properties of undefined (reading 'insertOne')
+2024-08-02T13:06:19.017Z ERROR TRACE:
+TypeError: Cannot read properties of undefined (reading 'insertOne')
+    at insertPersonDoc (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/create.js:48:47)
+    at syncMembers (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/helpers/initSync.js:43:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initSynchronization (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/helpers/initSync.js:11:9)
+    at async main (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/index.js:11:9)
+    at async /Users/a654172382/Desktop/May 2024 DC slime bot klee JS/index.js:27:5
+# TRACE END
+
+2024-08-02T13:22:40.075Z Successfully connected to MongoDb server
+2024-08-02T13:22:40.076Z Successfully connected to database: test2
+2024-08-02T13:22:41.640Z Successfully initialized discord bot.
+2024-08-02T13:22:41.641Z Starting synchronization of the database with const/memberList.js.
+2024-08-02T13:22:41.652Z No documents found in the database. Assuming this is a new collection.
+2024-08-02T13:22:41.653Z Error in init function initSynchronization(): TypeError: getPeopleCollection.insertOne is not a function
+2024-08-02T13:22:41.653Z ERROR TRACE:
+TypeError: getPeopleCollection.insertOne is not a function
+    at insertPersonDoc (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/create.js:48:50)
+    at syncMembers (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/helpers/initSync.js:43:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initSynchronization (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/helpers/initSync.js:11:9)
+    at async main (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/index.js:11:9)
+    at async /Users/a654172382/Desktop/May 2024 DC slime bot klee JS/index.js:27:5
+# TRACE END
+
+2024-08-02T13:23:03.492Z Successfully connected to MongoDb server
+2024-08-02T13:23:03.494Z Successfully connected to database: test2
+2024-08-02T13:23:04.933Z Successfully initialized discord bot.
+2024-08-02T13:23:04.933Z Starting synchronization of the database with const/memberList.js.
+2024-08-02T13:23:04.944Z No documents found in the database. Assuming this is a new collection.
+2024-08-02T13:23:04.973Z Person document inserted with _id: 
+2024-08-02T13:23:04.973Z Added 17maple with ID 253994447782543361 to the database.
+2024-08-02T13:23:04.976Z Person document inserted with _id: 
+2024-08-02T13:23:04.976Z Added Cats On Mars with ID 359361962414440449 to the database.
+2024-08-02T13:23:04.978Z Person document inserted with _id: 
+2024-08-02T13:23:04.978Z Added luxury777 with ID 400768894521966604 to the database.
+2024-08-02T13:23:04.979Z Person document inserted with _id: 
+2024-08-02T13:23:04.979Z Added Moss with ID 207111511410212865 to the database.
+2024-08-02T13:23:04.980Z Person document inserted with _id: 
+2024-08-02T13:23:04.980Z Added Vent with ID 207924668844212225 to the database.
+2024-08-02T13:23:04.982Z Person document inserted with _id: 
+2024-08-02T13:23:04.982Z Added Aevum with ID 342742678531997718 to the database.
+2024-08-02T13:23:04.984Z Person document inserted with _id: 
+2024-08-02T13:23:04.984Z Added aile with ID alt-207924668844212225 to the database.
+2024-08-02T13:23:04.986Z Person document inserted with _id: 
+2024-08-02T13:23:04.986Z Added Ainthe with ID 234077877958606849 to the database.
+2024-08-02T13:23:04.988Z Person document inserted with _id: 
+2024-08-02T13:23:04.988Z Added Angel with ID 563787164987686925 to the database.
+2024-08-02T13:23:04.988Z Person document inserted with _id: 
+2024-08-02T13:23:04.989Z Added Aquarios with ID 342895832057643018 to the database.
+2024-08-02T13:23:04.990Z Person document inserted with _id: 
+2024-08-02T13:23:04.990Z Added Bulbasaur with ID 949595232448679976 to the database.
+2024-08-02T13:23:04.991Z Person document inserted with _id: 
+2024-08-02T13:23:04.991Z Added ChaoLegend with ID 418389541976670218 to the database.
+2024-08-02T13:23:04.991Z Person document inserted with _id: 
+2024-08-02T13:23:04.992Z Added CloudExt with ID 362102976581599241 to the database.
+2024-08-02T13:23:04.992Z Person document inserted with _id: 
+2024-08-02T13:23:04.992Z Added Collin with ID 884080970666504202 to the database.
+2024-08-02T13:23:04.993Z Person document inserted with _id: 
+2024-08-02T13:23:04.993Z Added Consutron with ID 153660394349658112 to the database.
+2024-08-02T13:23:04.994Z Person document inserted with _id: 
+2024-08-02T13:23:04.994Z Added DaFoo with ID 683347894585131054 to the database.
+2024-08-02T13:23:04.994Z Person document inserted with _id: 
+2024-08-02T13:23:04.994Z Added Dan with ID 274133775917645824 to the database.
+2024-08-02T13:23:04.995Z Person document inserted with _id: 
+2024-08-02T13:23:04.995Z Added DoujinKAMI with ID 509185049346834453 to the database.
+2024-08-02T13:23:04.996Z Person document inserted with _id: 
+2024-08-02T13:23:04.996Z Added GoldHunter with ID 926128198574547024 to the database.
+2024-08-02T13:23:04.996Z Person document inserted with _id: 
+2024-08-02T13:23:04.997Z Added Gunther with ID 315112026093649920 to the database.
+2024-08-02T13:23:04.997Z Person document inserted with _id: 
+2024-08-02T13:23:04.997Z Added Heart with ID 1032794678522810399 to the database.
+2024-08-02T13:23:04.998Z Person document inserted with _id: 
+2024-08-02T13:23:04.998Z Added Ioni with ID 202635850599759873 to the database.
+2024-08-02T13:23:04.998Z Person document inserted with _id: 
+2024-08-02T13:23:04.999Z Added eph | booyah with ID 211679799867998218 to the database.
+2024-08-02T13:23:04.999Z Person document inserted with _id: 
+2024-08-02T13:23:04.999Z Added Jay with ID 403847682633760778 to the database.
+2024-08-02T13:23:04.999Z Person document inserted with _id: 
+2024-08-02T13:23:05.000Z Added Kenshin with ID 509805857425588224 to the database.
+2024-08-02T13:23:05.000Z Person document inserted with _id: 
+2024-08-02T13:23:05.000Z Added KekkoKamen with ID 551021107952484362 to the database.
+2024-08-02T13:23:05.000Z Person document inserted with _id: 
+2024-08-02T13:23:05.001Z Added Khucie with ID 80488161343442944 to the database.
+2024-08-02T13:23:05.001Z Person document inserted with _id: 
+2024-08-02T13:23:05.001Z Added Link2D3atH with ID 139262103214227456 to the database.
+2024-08-02T13:23:05.001Z Person document inserted with _id: 
+2024-08-02T13:23:05.001Z Added Mantis9 with ID 560576301149192203 to the database.
+2024-08-02T13:23:05.002Z Person document inserted with _id: 
+2024-08-02T13:23:05.002Z Added Blaire (mantis) with ID alt-560576301149192203 to the database.
+2024-08-02T13:23:05.002Z Person document inserted with _id: 
+2024-08-02T13:23:05.002Z Added Milhouse with ID 427948707657547776 to the database.
+2024-08-02T13:23:05.003Z Person document inserted with _id: 
+2024-08-02T13:23:05.003Z Added Minh with ID 593456655098707978 to the database.
+2024-08-02T13:23:05.003Z Person document inserted with _id: 
+2024-08-02T13:23:05.003Z Added Mixer with ID 201177323293114368 to the database.
+2024-08-02T13:23:05.004Z Person document inserted with _id: 
+2024-08-02T13:23:05.004Z Added MoonMan with ID 250779681257684992 to the database.
+2024-08-02T13:23:05.004Z Person document inserted with _id: 
+2024-08-02T13:23:05.004Z Added MountinTim with ID 282244124290318337 to the database.
+2024-08-02T13:23:05.005Z Person document inserted with _id: 
+2024-08-02T13:23:05.005Z Added Odyn with ID 553055447469522944 to the database.
+2024-08-02T13:23:05.005Z Person document inserted with _id: 
+2024-08-02T13:23:05.005Z Added pawpaw with ID 589670090752917524 to the database.
+2024-08-02T13:23:05.006Z Person document inserted with _id: 
+2024-08-02T13:23:05.006Z Added Pang with ID 202214566698942464 to the database.
+2024-08-02T13:23:05.006Z Person document inserted with _id: 
+2024-08-02T13:23:05.006Z Added Pengest with ID 364344681129312257 to the database.
+2024-08-02T13:23:05.007Z Person document inserted with _id: 
+2024-08-02T13:23:05.007Z Added Ranchymang with ID 611063840041467939 to the database.
+2024-08-02T13:23:05.007Z Person document inserted with _id: 
+2024-08-02T13:23:05.007Z Added ReddlsRow with ID 274682038970482688 to the database.
+2024-08-02T13:23:05.008Z Person document inserted with _id: 
+2024-08-02T13:23:05.008Z Added SenorTonto with ID 130852537199886337 to the database.
+2024-08-02T13:23:05.008Z Person document inserted with _id: 
+2024-08-02T13:23:05.008Z Added Spike/Chitoge with ID 134863783444086784 to the database.
+2024-08-02T13:23:05.009Z Person document inserted with _id: 
+2024-08-02T13:23:05.009Z Added Sweeps with ID 120031148557598722 to the database.
+2024-08-02T13:23:05.009Z Person document inserted with _id: 
+2024-08-02T13:23:05.009Z Added Tachii with ID 176147192719998977 to the database.
+2024-08-02T13:23:05.010Z Person document inserted with _id: 
+2024-08-02T13:23:05.010Z Added Tatumi with ID 394763425777057794 to the database.
+2024-08-02T13:23:05.010Z Person document inserted with _id: 
+2024-08-02T13:23:05.010Z Added Tedo with ID 826618819191242792 to the database.
+2024-08-02T13:23:05.010Z Person document inserted with _id: 
+2024-08-02T13:23:05.010Z Added Thaelon with ID 197085461624127488 to the database.
+2024-08-02T13:23:05.011Z Person document inserted with _id: 
+2024-08-02T13:23:05.011Z Added Tympest with ID 292615553942683648 to the database.
+2024-08-02T13:23:05.011Z Person document inserted with _id: 
+2024-08-02T13:23:05.011Z Added Foxcolt with ID 396398521462554624 to the database.
+2024-08-02T13:23:05.012Z Person document inserted with _id: 
+2024-08-02T13:23:05.012Z Added Zerefsis with ID 215506389353758720 to the database.
+2024-08-02T13:23:05.012Z Person document inserted with _id: 
+2024-08-02T13:23:05.012Z Added deeznauts with ID alt-506124628188594181 to the database.
+2024-08-02T13:23:05.012Z Person document inserted with _id: 
+2024-08-02T13:23:05.012Z Added donuts with ID 506124628188594181 to the database.
+2024-08-02T13:23:05.013Z Person document inserted with _id: 
+2024-08-02T13:23:05.013Z Added esyw with ID 847443895327785030 to the database.
+2024-08-02T13:23:05.013Z Person document inserted with _id: 
+2024-08-02T13:23:05.014Z Added fiE with ID 961291207210856448 to the database.
+2024-08-02T13:23:05.014Z Person document inserted with _id: 
+2024-08-02T13:23:05.014Z Added leafa with ID 187764065131560960 to the database.
+2024-08-02T13:23:05.015Z Person document inserted with _id: 
+2024-08-02T13:23:05.015Z Added mUmU with ID 500124144755671040 to the database.
+2024-08-02T13:23:05.015Z Person document inserted with _id: 
+2024-08-02T13:23:05.015Z Added nero131 with ID 414540032981073921 to the database.
+2024-08-02T13:23:05.016Z Person document inserted with _id: 
+2024-08-02T13:23:05.016Z Added rocketeer with ID 238091448073846784 to the database.
+2024-08-02T13:23:05.016Z Person document inserted with _id: 
+2024-08-02T13:23:05.016Z Added tra20012 with ID 260137946701627392 to the database.
+2024-08-02T13:23:05.017Z Person document inserted with _id: 
+2024-08-02T13:23:05.017Z Added traffyboi with ID 120428736637173760 to the database.
+2024-08-02T13:23:05.017Z Person document inserted with _id: 
+2024-08-02T13:23:05.017Z Added variant with ID 579199616143327258 to the database.
+2024-08-02T13:23:05.018Z Person document inserted with _id: 
+2024-08-02T13:23:05.018Z Added yokiz with ID 689319997230940233 to the database.
+2024-08-02T13:23:05.018Z Person document inserted with _id: 
+2024-08-02T13:23:05.018Z Added zero00 with ID 563082215198556211 to the database.
+2024-08-02T13:23:05.019Z Person document inserted with _id: 
+2024-08-02T13:23:05.019Z Added GonBu with ID 465942228791984149 to the database.
+2024-08-02T13:23:05.019Z Person document inserted with _id: 
+2024-08-02T13:23:05.019Z Added CerviDear with ID 216134070692741120 to the database.
+2024-08-02T13:23:05.019Z Person document inserted with _id: 
+2024-08-02T13:23:05.019Z Added GeeAitch with ID 464550985877028878 to the database.
+2024-08-02T13:23:05.020Z Person document inserted with _id: 
+2024-08-02T13:23:05.020Z Added HissingCat with ID 286254133067907073 to the database.
+2024-08-02T13:23:05.020Z Person document inserted with _id: 
+2024-08-02T13:23:05.020Z Added Kenjiyoyo with ID 458271611456585739 to the database.
+2024-08-02T13:23:05.021Z Person document inserted with _id: 
+2024-08-02T13:23:05.021Z Added Miki with ID 174762571059036160 to the database.
+2024-08-02T13:23:05.021Z Person document inserted with _id: 
+2024-08-02T13:23:05.021Z Added Neal with ID 1025797495416160389 to the database.
+2024-08-02T13:23:05.021Z Person document inserted with _id: 
+2024-08-02T13:23:05.021Z Added Sundays with ID 528785775169372176 to the database.
+2024-08-02T13:23:05.022Z Person document inserted with _id: 
+2024-08-02T13:23:05.022Z Added Syfare with ID 315236018477596712 to the database.
+2024-08-02T13:23:05.022Z The database has been synced up with const/memberList.js. 73 new members were added.
+2024-08-02T13:23:05.022Z Successfully verified synchronization.
+2024-08-02T13:23:05.022Z Total slime count cached successfully.

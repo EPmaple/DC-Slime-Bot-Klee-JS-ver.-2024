@@ -1,0 +1,17 @@
+Q: do we still need cachedData?
+A: given const/memberList.js, at init, we may read in nameId and idName from
+db and to sync up db with local const/memberList.js, and then afterwards,
+we can throw away the temporary variable of nameId and idName, the
+variable totalSlimeCount is still needed: as everytime a slime is
+summoned, we need to give it an id, if
+
+Q: do i want to cache everything from the database at initialization?
+A: given we only want fast response time, reads from both db and local
+cache is unnecessary, and writes to both db and local cache is more
+expensive than to just db, so i do not cache everything from db at init
+
+Q: what about db failures, rollbacks, etc?
+
+Q: Perhaps we should not have centralized error handling in kommandHandler.js,
+as it may prevent us from replying with diversified messages depending
+on the error context

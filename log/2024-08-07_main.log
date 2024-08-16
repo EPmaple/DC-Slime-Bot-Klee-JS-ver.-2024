@@ -1,0 +1,48 @@
+2024-08-07T13:24:11.976Z Successfully connected to MongoDb server
+2024-08-07T13:24:11.983Z Successfully connected to database: test3
+2024-08-07T13:24:13.456Z Successfully initialized discord bot.
+2024-08-07T13:24:13.457Z Starting synchronization of the database with const/memberList.js.
+2024-08-07T13:24:13.506Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-07T13:24:13.507Z Successfully verified synchronization.
+2024-08-07T13:24:13.556Z Successfully cached total slime count.
+2024-08-07T13:24:13.594Z Successfully cached individual slime counts.
+2024-08-07T13:24:13.594Z Successfully cached necessary data.
+2024-08-07T13:24:13.595Z All initializations completed successfully. Bot is now ready!
+2024-08-07T13:24:13.938Z Bot is online!
+2024-08-07T13:28:31.957Z [chat] 17maple: .u
+2024-08-07T13:28:32.431Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b37680dba8832a8f088fdc"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b37680dba8832a8f088fdc"}
+2024-08-07T13:28:32.476Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-07T13:28:32.491Z user.slimeCount: number, numOfSlimes: number
+2024-08-07T13:28:32.870Z [chat] Klee: Woah, a slime! Klee has counted 5 slimes for 17maple
+2024-08-07T13:28:36.176Z [chat] 17maple: .u 1
+2024-08-07T13:28:36.449Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b37684dba8832a8f088fdd"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b37684dba8832a8f088fdd"}
+2024-08-07T13:28:36.490Z user.slimeCount: number, numOfSlimes: number
+2024-08-07T13:28:36.514Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-07T13:28:36.867Z [chat] Klee: Woah, a slime! Klee has counted 6 slimes for 17maple
+2024-08-07T13:28:55.969Z [chat] 17maple: .u 2
+2024-08-07T13:28:56.384Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b37698dba8832a8f088fde"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b37698dba8832a8f088fde"}
+2024-08-07T13:28:56.424Z user.slimeCount: number, numOfSlimes: number
+2024-08-07T13:28:56.447Z [chat] Klee: <@&1192966263065034782> Bulbasaur
+2024-08-07T13:28:56.764Z [chat] Klee: Woah, a slime! Klee has counted 1 slimes for Bulbasaur
+2024-08-07T13:32:22.904Z [chat] 17maple: .u 3
+2024-08-07T13:32:24.528Z [chat] Klee: <@&1192966263065034782> Link2D3atH
+2024-08-07T13:32:24.722Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b37768dba8832a8f088fdf"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b37768dba8832a8f088fdf"}
+2024-08-07T13:32:24.769Z user.slimeCount: number, numOfSlimes: number
+2024-08-07T13:32:25.161Z [chat] Klee: Woah, a slime! Klee has counted 1 slimes for Link2D3atH
+2024-08-07T13:32:28.632Z [chat] 17maple: .4
+2024-08-07T13:32:29.144Z [chat] Klee: The command '4' is not supported.
+2024-08-07T13:32:32.016Z [chat] 17maple: .u 4
+2024-08-07T13:32:32.315Z insertResult for debug: {"acknowledged":true,"insertedCount":1,"insertedIds":{"0":"66b37770dba8832a8f088fe0"}}, 
+        insertedCount: 1, 
+        insertedIds: {"0":"66b37770dba8832a8f088fe0"}
+2024-08-07T13:32:32.360Z user.slimeCount: number, numOfSlimes: number
+2024-08-07T13:32:32.398Z [chat] Klee: <@&1192966263065034782> leafa
+2024-08-07T13:32:32.798Z [chat] Klee: Woah, a slime! Klee has counted 1 slimes for leafa

@@ -1,0 +1,168 @@
+2024-08-09T12:15:35.288Z Successfully connected to MongoDb server
+2024-08-09T12:15:35.292Z Successfully connected to database: test3
+2024-08-09T12:15:36.693Z Successfully initialized discord bot.
+2024-08-09T12:15:36.695Z Starting synchronization of the database with const/memberList.js.
+2024-08-09T12:15:36.744Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-09T12:15:36.744Z Successfully verified synchronization.
+2024-08-09T12:15:36.786Z Successfully cached total slime count.
+2024-08-09T12:15:36.826Z Successfully cached individual slime counts.
+2024-08-09T12:15:36.827Z Successfully cached necessary data.
+2024-08-09T12:15:36.828Z All initializations completed successfully. Bot is now ready!
+2024-08-09T12:15:37.203Z Bot is online!
+2024-08-09T12:16:07.576Z [chat] 17maple: .zoom
+2024-08-09T12:16:07.692Z {"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+2024-08-09T12:16:08.161Z [chat] Klee: The number of times 17maple zoomed has been changed from 1 to 2.
+Zooms in the last 7 days: 2. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-09T12:16:10.795Z [chat] 17maple: .zoom me
+2024-08-09T12:16:10.884Z {"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+2024-08-09T12:16:11.297Z [chat] Klee: The number of times 17maple zoomed has been changed from 2 to 3.
+Zooms in the last 7 days: 3. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-09T12:16:32.146Z [chat] 17maple: .zoom 1 traf
+2024-08-09T12:16:32.249Z {"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+2024-08-09T12:16:33.333Z [chat] Klee: The number of times traffyboi zoomed has been changed from 0 to 1.
+Zooms in the last 7 days: 1. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-09T12:16:39.086Z [chat] 17maple: .zoom -1 traf
+2024-08-09T12:16:39.690Z [chat] Klee: The number of times traffyboi zoomed has been changed from 1 to 0.
+2024-08-09T12:17:02.048Z [chat] 17maple: .zoom -1 traf
+2024-08-09T12:17:02.177Z Error in command function addZoom(): Error: Aborting transaction: failed to update the person's zoomsArray in the database.
+2024-08-09T12:17:02.179Z ERROR TRACE:
+Error: Aborting transaction: failed to update the person's zoomsArray in the database.
+    at updatePersonZoomNegatively (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/database/update.js:248:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addZoom.js:108:32)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-09T12:17:02.677Z [chat] Klee: An error occurred during the addZoom kommand, please try again later.
+2024-08-09T12:17:11.929Z [chat] 17maple: .zoom -1 maple
+2024-08-09T12:17:12.529Z [chat] Klee: The number of times 17maple zoomed has been changed from 3 to 2.
+2024-08-09T12:28:11.223Z Closing connection to MongoDB
+2024-08-09T12:28:12.717Z Successfully connected to MongoDb server
+2024-08-09T12:28:12.721Z Successfully connected to database: test3
+2024-08-09T12:28:14.156Z Successfully initialized discord bot.
+2024-08-09T12:28:14.157Z Starting synchronization of the database with const/memberList.js.
+2024-08-09T12:28:14.207Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-09T12:28:14.207Z Successfully verified synchronization.
+2024-08-09T12:28:14.243Z Successfully cached total slime count.
+2024-08-09T12:28:14.282Z Successfully cached individual slime counts.
+2024-08-09T12:28:14.283Z Successfully cached necessary data.
+2024-08-09T12:28:14.284Z All initializations completed successfully. Bot is now ready!
+2024-08-09T12:28:14.659Z Bot is online!
+2024-08-09T12:28:21.764Z [chat] 17maple: .zoom -1 traf
+2024-08-09T12:28:22.297Z Error in command function addZoom(): TypeError: Cannot read properties of null (reading 'originalZooms')
+2024-08-09T12:28:22.298Z ERROR TRACE:
+TypeError: Cannot read properties of null (reading 'originalZooms')
+    at Object.execute (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/discord/kommands/addZoom.js:119:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Client.<anonymous> (/Users/a654172382/Desktop/May 2024 DC slime bot klee JS/handlers/kommandHandler.js:82:13)
+# TRACE END
+
+2024-08-09T12:28:22.412Z [chat] Klee: No more zooms can be removed from traffyboi for s/he currently has zero zooms.
+2024-08-09T12:28:22.746Z [chat] Klee: An error occurred during the addZoom kommand, please try again later.
+2024-08-09T12:28:55.702Z [chat] 17maple: .zoom 2 maple
+2024-08-09T12:28:55.812Z {"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+2024-08-09T12:28:56.277Z [chat] Klee: The number of times 17maple zoomed has been changed from 2 to 4.
+Zooms in the last 7 days: 4. ヽ( `д´*)ノ Why did you zoom ?!
+2024-08-09T12:30:30.243Z [chat] 17maple: .daily
+2024-08-09T12:30:30.712Z [chat] Klee: On undefined, we summoned undefined slimes.
+2024-08-09T12:30:45.658Z [chat] 17maple: <:frogeholmes:887936602830147596>
+2024-08-09T12:37:27.568Z Closing connection to MongoDB
+2024-08-09T12:40:31.011Z Successfully connected to MongoDb server
+2024-08-09T12:40:31.018Z Successfully connected to database: test3
+2024-08-09T12:40:32.583Z Successfully initialized discord bot.
+2024-08-09T12:40:32.584Z Starting synchronization of the database with const/memberList.js.
+2024-08-09T12:40:32.633Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-09T12:40:32.633Z Successfully verified synchronization.
+2024-08-09T12:40:32.674Z Successfully cached total slime count.
+2024-08-09T12:40:32.715Z Successfully cached individual slime counts.
+2024-08-09T12:40:32.715Z Successfully cached necessary data.
+2024-08-09T12:40:32.716Z All initializations completed successfully. Bot is now ready!
+2024-08-09T12:40:32.979Z Bot is online!
+2024-08-09T12:40:41.787Z [chat] 17maple: .daily
+2024-08-09T12:40:41.789Z {}
+2024-08-09T12:40:42.228Z [chat] Klee: On undefined, we summoned undefined slimes.
+2024-08-09T12:42:31.706Z Closing connection to MongoDB
+2024-08-09T12:42:33.026Z Successfully connected to MongoDb server
+2024-08-09T12:42:33.029Z Successfully connected to database: test3
+2024-08-09T12:42:34.501Z Successfully initialized discord bot.
+2024-08-09T12:42:34.502Z Starting synchronization of the database with const/memberList.js.
+2024-08-09T12:42:34.551Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-09T12:42:34.552Z Successfully verified synchronization.
+2024-08-09T12:42:34.597Z Successfully cached total slime count.
+2024-08-09T12:42:34.646Z Successfully cached individual slime counts.
+2024-08-09T12:42:34.647Z Successfully cached necessary data.
+2024-08-09T12:42:34.648Z All initializations completed successfully. Bot is now ready!
+2024-08-09T12:42:34.990Z Bot is online!
+2024-08-09T12:42:45.584Z [chat] 17maple: .daily
+2024-08-09T12:42:45.620Z {"date":"2024-08-09T12:42:45.585Z","count":0}
+2024-08-09T12:42:46.024Z [chat] Klee: On 2024-08-09T12:42:45.585Z, we summoned 0 slimes.
+2024-08-09T12:43:56.639Z Closing connection to MongoDB
+2024-08-09T12:43:57.905Z Successfully connected to MongoDb server
+2024-08-09T12:43:57.911Z Successfully connected to database: test3
+2024-08-09T12:43:59.626Z Successfully initialized discord bot.
+2024-08-09T12:43:59.627Z Starting synchronization of the database with const/memberList.js.
+2024-08-09T12:43:59.682Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-09T12:43:59.682Z Successfully verified synchronization.
+2024-08-09T12:43:59.721Z Successfully cached total slime count.
+2024-08-09T12:43:59.766Z Successfully cached individual slime counts.
+2024-08-09T12:43:59.767Z Successfully cached necessary data.
+2024-08-09T12:43:59.768Z All initializations completed successfully. Bot is now ready!
+2024-08-09T12:44:00.040Z Bot is online!
+2024-08-09T12:44:04.413Z [chat] 17maple: .u
+2024-08-09T12:44:04.811Z [chat] Klee: <@&1192966263065034782> 17maple
+2024-08-09T12:44:04.815Z user.slimeCount: number, numOfSlimes: number
+2024-08-09T12:44:05.192Z [chat] Klee: Woah, a slime! Klee has counted 2 slimes for 17maple
+2024-08-09T12:44:07.903Z [chat] 17maple: .daily
+2024-08-09T12:44:07.952Z {"date":"2024-08-09","count":1}
+2024-08-09T12:44:08.361Z [chat] Klee: On 2024-08-09, we summoned 1 slimes.
+2024-08-09T12:56:38.309Z Closing connection to MongoDB
+2024-08-09T12:57:14.289Z Successfully connected to MongoDb server
+2024-08-09T12:57:14.293Z Successfully connected to database: test3
+2024-08-09T12:57:15.794Z Successfully initialized discord bot.
+2024-08-09T12:57:15.795Z Starting synchronization of the database with const/memberList.js.
+2024-08-09T12:57:15.842Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-09T12:57:15.843Z Successfully verified synchronization.
+2024-08-09T12:57:15.880Z Successfully cached total slime count.
+2024-08-09T12:57:15.920Z Successfully cached individual slime counts.
+2024-08-09T12:57:15.921Z Successfully cached necessary data.
+2024-08-09T12:57:15.922Z All initializations completed successfully. Bot is now ready!
+2024-08-09T12:57:16.219Z Bot is online!
+2024-08-09T12:58:21.588Z [chat] 17maple: .daily
+2024-08-09T12:58:22.018Z [chat] Klee: On 2024-08-09, we summoned 1 slimes.
+2024-08-09T13:08:21.210Z Closing connection to MongoDB
+2024-08-09T13:08:25.519Z Successfully connected to MongoDb server
+2024-08-09T13:08:25.524Z Successfully connected to database: test3
+2024-08-09T13:08:26.915Z Successfully initialized discord bot.
+2024-08-09T13:08:26.915Z Starting synchronization of the database with const/memberList.js.
+2024-08-09T13:08:26.972Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-09T13:08:26.973Z Successfully verified synchronization.
+2024-08-09T13:08:27.022Z Successfully cached total slime count.
+2024-08-09T13:08:27.064Z Successfully cached individual slime counts.
+2024-08-09T13:08:27.065Z Successfully cached necessary data.
+2024-08-09T13:08:27.066Z All initializations completed successfully. Bot is now ready!
+2024-08-09T13:08:27.395Z Bot is online!
+2024-08-09T13:08:34.327Z [chat] 17maple: .daily
+2024-08-09T13:08:34.818Z [chat] Klee: As of Friday, 2024-08-09 (UTC), we have summoned 1 slimes so far.
+2024-08-09T13:09:06.484Z [chat] 17maple: .sinfo
+2024-08-09T13:09:07.057Z [chat] Klee: Seasonal Slime Count: 24, and Seasonal Slime
+                Record: {17maple: 2, Cats On Mars: 0, luxury777: 0, Moss: 0, Vent: 0, Aevum: 0, aile: 0, Ainthe: 0, Angel: 0, Aquarios: 0, Bulbasaur: 1, ChaoLegend: 0, CloudExt: 0, Collin: 0, Consutron: 0, DaFoo: 0, Dan: 0, DoujinKAMI: 0, GoldHunter: 0, Gunther: 19, Heart: 0, Ioni: 0, eph | booyah: 0, Jay: 0, Kenshin: 0, KekkoKamen: 0, Khucie: 0, Link2D3atH: 1, Mantis9: 0, Blaire (mantis): 0, Milhouse: 0, Minh: 0, Mixer: 0, MoonMan: 0, MountinTim: 0, Odyn: 0, pawpaw: 0, Pang: 0, Pengest: 0, Ranchymang: 0, ReddlsRow: 0, SenorTonto: 0, Spike/Chitoge: 0, Sweeps: 0, Tachii: 0, Tatumi: 0, Tedo: 0, Thaelon: 0, Tympest: 0, Foxcolt: 0, Zerefsis: 0, deeznauts: 0, donuts: 0, esyw: 0, fiE: 0, leafa: 1, mUmU: 0, nero131: 0, rocketeer: 0, tra20012: 0, traffyboi: 0, variant: 0, yokiz: 0, zero00: 0, GonBu: 0, CerviDear: 0, GeeAitch: 0, HissingCat: 0, Kenjiyoyo: 0, Miki: 0, Neal: 0, Sundays: 0, Syfare: 0}.
+Seasonal Zoom Count: 4, and Seasonal Zoom
+                Record: {17maple: 4, Cats On Mars: 0, luxury777: 0, Moss: 0, Vent: 0, Aevum: 0, aile: 0, Ainthe: 0, Angel: 0, Aquarios: 0, Bulbasaur: 0, ChaoLegend: 0, CloudExt: 0, Collin: 0, Consutron: 0, DaFoo: 0, Dan: 0, DoujinKAMI: 0, GoldHunter: 0, Gunther: 0, Heart: 0, Ioni: 0, eph | booyah: 0, Jay: 0, Kenshin: 0, KekkoKamen: 0, Khucie: 0, Link2D3atH: 0, Mantis9: 0, Blaire (mantis): 0, Milhouse: 0, Minh: 0, Mixer: 0, MoonMan: 0, MountinTim: 0, Odyn: 0, pawpaw: 0, Pang: 0, Pengest: 0, Ranchymang: 0, ReddlsRow: 0, SenorTonto: 0, Spike/Chitoge: 0, Sweeps: 0, Tachii: 0, Tatumi: 0, Tedo: 0, Thaelon: 0, Tympest: 0, Foxcolt: 0, Zerefsis: 0, deeznauts: 0, donuts: 0, esyw: 0, fiE: 0, leafa: 0, mUmU: 0, nero131: 0, rocketeer: 0, tra20012: 0, traffyboi: 0, variant: 0, yokiz: 0, zero00: 0, GonBu: 0, CerviDear: 0, GeeAitch: 0, HissingCat: 0, Kenjiyoyo: 0, Miki: 0, Neal: 0, Sundays: 0, Syfare: 0}.
+2024-08-09T13:10:48.478Z Closing connection to MongoDB
+2024-08-09T13:10:49.777Z Successfully connected to MongoDb server
+2024-08-09T13:10:49.780Z Successfully connected to database: test3
+2024-08-09T13:10:51.462Z Successfully initialized discord bot.
+2024-08-09T13:10:51.463Z Starting synchronization of the database with const/memberList.js.
+2024-08-09T13:10:51.514Z The database is already in sync with const/memberList.js. No updates were necessary.
+2024-08-09T13:10:51.515Z Successfully verified synchronization.
+2024-08-09T13:10:51.556Z Successfully cached total slime count.
+2024-08-09T13:10:51.592Z Successfully cached individual slime counts.
+2024-08-09T13:10:51.592Z Successfully cached necessary data.
+2024-08-09T13:10:51.593Z All initializations completed successfully. Bot is now ready!
+2024-08-09T13:10:51.942Z Bot is online!
+2024-08-09T13:10:55.982Z [chat] 17maple: .seasoninfo
+2024-08-09T13:10:56.481Z [chat] Klee: Seasonal Slime Count: 24, and Seasonal Slime Record: 
+ 	 {17maple: 2, Cats On Mars: 0, luxury777: 0, Moss: 0, Vent: 0, Aevum: 0, aile: 0, Ainthe: 0, Angel: 0, Aquarios: 0, Bulbasaur: 1, ChaoLegend: 0, CloudExt: 0, Collin: 0, Consutron: 0, DaFoo: 0, Dan: 0, DoujinKAMI: 0, GoldHunter: 0, Gunther: 19, Heart: 0, Ioni: 0, eph | booyah: 0, Jay: 0, Kenshin: 0, KekkoKamen: 0, Khucie: 0, Link2D3atH: 1, Mantis9: 0, Blaire (mantis): 0, Milhouse: 0, Minh: 0, Mixer: 0, MoonMan: 0, MountinTim: 0, Odyn: 0, pawpaw: 0, Pang: 0, Pengest: 0, Ranchymang: 0, ReddlsRow: 0, SenorTonto: 0, Spike/Chitoge: 0, Sweeps: 0, Tachii: 0, Tatumi: 0, Tedo: 0, Thaelon: 0, Tympest: 0, Foxcolt: 0, Zerefsis: 0, deeznauts: 0, donuts: 0, esyw: 0, fiE: 0, leafa: 1, mUmU: 0, nero131: 0, rocketeer: 0, tra20012: 0, traffyboi: 0, variant: 0, yokiz: 0, zero00: 0, GonBu: 0, CerviDear: 0, GeeAitch: 0, HissingCat: 0, Kenjiyoyo: 0, Miki: 0, Neal: 0, Sundays: 0, Syfare: 0}.
+Seasonal Zoom Count: 4, and Seasonal Zoom Record: 
+ 	 {17maple: 4, Cats On Mars: 0, luxury777: 0, Moss: 0, Vent: 0, Aevum: 0, aile: 0, Ainthe: 0, Angel: 0, Aquarios: 0, Bulbasaur: 0, ChaoLegend: 0, CloudExt: 0, Collin: 0, Consutron: 0, DaFoo: 0, Dan: 0, DoujinKAMI: 0, GoldHunter: 0, Gunther: 0, Heart: 0, Ioni: 0, eph | booyah: 0, Jay: 0, Kenshin: 0, KekkoKamen: 0, Khucie: 0, Link2D3atH: 0, Mantis9: 0, Blaire (mantis): 0, Milhouse: 0, Minh: 0, Mixer: 0, MoonMan: 0, MountinTim: 0, Odyn: 0, pawpaw: 0, Pang: 0, Pengest: 0, Ranchymang: 0, ReddlsRow: 0, SenorTonto: 0, Spike/Chitoge: 0, Sweeps: 0, Tachii: 0, Tatumi: 0, Tedo: 0, Thaelon: 0, Tympest: 0, Foxcolt: 0, Zerefsis: 0, deeznauts: 0, donuts: 0, esyw: 0, fiE: 0, leafa: 0, mUmU: 0, nero131: 0, rocketeer: 0, tra20012: 0, traffyboi: 0, variant: 0, yokiz: 0, zero00: 0, GonBu: 0, CerviDear: 0, GeeAitch: 0, HissingCat: 0, Kenjiyoyo: 0, Miki: 0, Neal: 0, Sundays: 0, Syfare: 0}.
+2024-08-09T13:16:06.917Z Closing connection to MongoDB
